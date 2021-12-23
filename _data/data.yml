@@ -9,11 +9,11 @@ sidebar:
     # Profile information
     name: Kun Zhu
     tagline: Senior Software Engineer / Architecture
-    # avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: ariesyzhk@gmail.com
-    phone: 00000000000
+    phone: 18927401214
     website: cv.zhu-kun.com #do not add http://
     linkedin: kun-zhu-18b7082b
     #xing: alandoe
