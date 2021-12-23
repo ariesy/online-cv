@@ -35,7 +35,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Movies
+      - item: Watching Movies
         link:
 
       - item: Gaming
@@ -49,9 +49,9 @@ career-profile:
     summary: |
       Hi, my name's Kun Zhu and I'm a senior software engineer/architecture. I have also worked as a team manager to lead team development.
 
-      I am most skilled in: <mark>C#</mark> language, and also worked on <mark>Java</mark>, <mark>Javascript</mark>, <mark>python</mark> languages. 
+      I am most skilled in: <bold>C#</bold> language, and also worked on <bold>Java</bold>, <bold>Javascript</bold>, <bold>python</bold> languages. 
   
-      I am experienced in <mark>SQL</mark>, <mark>Elasticsearch</mark>, <mark>Redis</mark>, <mark>AWS</mark> techniques, and worked in <mark>microservices</mark>, <mark>Winform</mark>, <mark>Excel plugins</mark> development areas.
+      I am experienced in <bold>SQL</bold>, <bold>Elasticsearch</bold>, <bold>Redis</bold>, <bold>AWS</bold> techniques, and worked in <bold>microservices</bold>, <bold>Winform</bold>, <bold>Excel plugins</bold> development areas.
 education:
     - degree: BMan in Information Management and Information System
       university: Sun Yat-Sen University
@@ -66,23 +66,18 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Associate Director Senior Software Architecture 
+      time: Nov 2020 - Present
+      company: CSG Group, Moody's Analytics
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
+        Participate in building a new product [Risk Compass].
+          - Design and set up search engine using Elasticsearch.
+          - Design and build portfolio microservice to support portfolio module.
+          - Setup Glue ETL jobs to process bond, entity, article data.
+        Build Scorecard service module for China Credit View product.
+          - Design and set up scorecard microservice to generate scorecard spreadsheet for different industries.
+    - role: Associate Director Senior Software Architecture 
+      time: Nov 2020 - June 2021
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -129,49 +124,38 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C# & .NET
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: MongoDB
+        level: 90%
+      
+      - name: Redis
+        level: 90%
+
+      - name: Elasticsearch
+        level: 90%
+
+      - name: AWS
+        level: 90%
+
+      - name: Python
+        level: 80%
+
+      - name: Java
+        level: 80%
+
+      - name: Javascript & React
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
         level: 60%
 
 footer: >
