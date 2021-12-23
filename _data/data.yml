@@ -49,9 +49,9 @@ career-profile:
     summary: |
       Hi, my name's Kun Zhu and I'm a senior software engineer/architecture. I have also worked as a team manager to lead team development.
 
-      I am most skilled in: <bold>C#</bold> language, and also worked on <bold>Java</bold>, <bold>Javascript</bold>, <bold>python</bold> languages. 
+      I am most skilled in: <strong>C#</strong> language, and also worked on <strong>Java</strong>, <strong>Javascript</strong>, <strong>python</strong> languages. 
   
-      I am experienced in <bold>SQL</bold>, <bold>Elasticsearch</bold>, <bold>Redis</bold>, <bold>AWS</bold> techniques, and worked in <bold>microservices</bold>, <bold>Winform</bold>, <bold>Excel plugins</bold> development areas.
+      I am experienced in <strong>SQL</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS</strong> techniques, and worked in <strong>microservices</strong>, <strong>Winform</strong>, <strong>Excel plugins</strong> development areas.
 education:
     - degree: BMan in Information Management and Information System
       university: Sun Yat-Sen University
@@ -67,26 +67,19 @@ education:
           - Bullet point
 experiences:
     - role: Associate Director Senior Software Architecture 
-      time: Nov 2020 - Present
+      time: April 2021 - Present
       company: CSG Group, Moody's Analytics
       details: |
         Participate in building a new product [Risk Compass].
           - Design and set up search engine using Elasticsearch.
           - Design and build portfolio microservice to support portfolio module.
           - Setup Glue ETL jobs to process bond, entity, article data.
-        Build Scorecard service module for China Credit View product.
-          - Design and set up scorecard microservice to generate scorecard spreadsheet for different industries.
     - role: Associate Director Senior Software Architecture 
       time: Nov 2020 - June 2021
-      company: Google, London
+      company: CSG Group, Moody's Analytics
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Build Scorecard service module for China Credit View product.
+          - Design and set up scorecard microservice to generate scorecard spreadsheet for different industries.
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
