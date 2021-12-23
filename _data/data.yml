@@ -47,14 +47,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hi, my name's Kun Zhu and I'm a senior software engineer/architecture. I have also worked as a team manager to lead team development.
+
+      I am most skilled in: <mark>C#</mark> language, and also worked on <mark>Java</mark>, <mark>Javascript</mark>, <mark>python</mark> languages. 
+  
+      I am experienced in <mark>SQL</mark>, <mark>Elasticsearch</mark>, <mark>Redis</mark>, <mark>AWS</mark> techniques, and worked in <mark>microservices</mark>, <mark>Winform</mark>, <mark>Excel plugins</mark> development areas.
 education:
-    - degree: BSc in Information Management and Information System
+    - degree: BMan in Information Management and Information System
       university: Sun Yat-Sen University
       link: sysu.edu.cn
       time: 2002 - 2006
