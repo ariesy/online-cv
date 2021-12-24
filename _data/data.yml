@@ -74,23 +74,31 @@ experiences:
           - Design and set up search engine using Elasticsearch.
           - Design and build portfolio microservice to support portfolio module.
           - Setup Glue ETL jobs to process bond, entity, article data.
+          - Setup a headless CMS to support real time data/config changes.
     - role: Associate Director Senior Software Architecture 
       time: Nov 2020 - June 2021
       company: CSG Group, Moody's Analytics
       details: |
         Build Scorecard service module for China Credit View product.
           - Design and set up scorecard microservice to generate scorecard spreadsheet for different industries.
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Associate Director Senior Software Engineer Manager
+      time: Jan 2018 - Nov 2020
+      company: CSR BU, Moody's Analytics
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Lead team to develop Moody's Add-in for Excel product.
+          - Design and lead team to develop Moody's Add-in for Excel SDK (A platform for other BU to integrate features and data into Moody's Add-in for Excel). 
+          - Design and lead team to implement MADATA formula feature.
+          - Design Enterprise authentication for Moody's Add-in for Excel.
+    - role: Assistant / Associate Director Senior Software Engineer / Architecture
+      time: Mar 2012 - Jan 2018
+      company: Platform Division, Moody's Analytics
+      details: |
+          - Design and implement features of Moody's Add-in for Excel product.
+    - role: Technique Team Leader
+      time: June 2006 - Mar 2021
+      company: Morningstar
+      details: |
+          - Design and lead team to implement features of Morningstar Advisor Workstation product.
 projects:
     title: Projects
     intro: >
@@ -145,7 +153,7 @@ skills:
       - name: Java
         level: 80%
 
-      - name: Javascript & React
+      - name: Javascript & React & Nodejs
         level: 70%
 
       - name: HTML5 & CSS
