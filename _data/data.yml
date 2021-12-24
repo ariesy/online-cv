@@ -64,12 +64,17 @@ education:
       university: AWS
       link: aws.amazon.com
       time: 2017
-    - degree: Coursera online courses
-      university: coursera
+    - degree: Financial Market
+      university: Yale University - Coursera online course.
       link: www.coursera.org
-      time: 2013 - 2014
+      time: 2014
       details: |
         Passed <strong>Financial Market</strong> course provided by Yale University.
+    - degree: An Introduction to Interactive Programming in Python
+      university: Rice University - Coursera online course.
+      link: www.coursera.org
+      time: 2013
+      details: |
         Passed <strong>An Introduction to Interactive Programming in Python</strong> course provided by Rice University.
 experiences:
     - role: Associate Director Senior Software Architecture 
