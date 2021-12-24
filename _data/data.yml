@@ -65,13 +65,13 @@ education:
       link: aws.amazon.com
       time: 2017
     - degree: Financial Market
-      university: Yale University - Coursera online course.
+      university: Yale University - Coursera online course
       link: www.coursera.org
       time: 2014
       details: |
         Passed <strong>Financial Market</strong> course provided by Yale University.
     - degree: An Introduction to Interactive Programming in Python
-      university: Rice University - Coursera online course.
+      university: Rice University - Coursera online course
       link: www.coursera.org
       time: 2013
       details: |
