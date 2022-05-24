@@ -1,0 +1,1 @@
+docker run --rm --volume="C:/git/my/online-cv:/srv/jekyll" --volume="C:/git/my/online-cv/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=development -p 4000:4000 jekyll/jekyll jekyll serve 

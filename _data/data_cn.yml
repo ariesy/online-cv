@@ -5,7 +5,7 @@ sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
     # Profile information
-    name: Kun Zhu
+    name: 朱琨
     tagline: Senior Software Engineer / Architecture
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
@@ -36,9 +36,9 @@ sidebar:
       - item: Jugging
         link:
 career-profile:
-    title: Career Profile
+    title: 个人简介
     summary: |
-      Hi, my name's Kun Zhu and I'm a senior software engineer/architecture. I have also worked as a team manager to lead team development.
+      欢迎浏览我的简历，我是朱琨.我是一个高级软件开发工程师/架构师. 我也担任过开发组长，领导团队进行开发工作.
       I am most skilled in: <strong>C#</strong> language, and also worked on <strong>Java</strong>, <strong>Javascript</strong>, <strong>python</strong> languages.
       I am experienced in <strong>SQL</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS</strong> techniques, and worked in <strong>microservices</strong>, <strong>Winform</strong>, <strong>Excel plugins</strong> development areas.
 education:
