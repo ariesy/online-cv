@@ -42,13 +42,12 @@ career-profile:
       I am most skilled in: <strong>C#</strong> language, and also worked on <strong>Java</strong>, <strong>Javascript</strong>, <strong>python</strong> languages.
       I am experienced in <strong>SQL</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS</strong> techniques, and worked in <strong>microservices</strong>, <strong>Winform</strong>, <strong>Excel plugins</strong> development areas.
 education:
-    - degree: BMan in Information Management and Information System
-      university: Sun Yat-Sen University
-      link: sysu.edu.cn
-      time: 2002 - 2006
+    - degree: FRM certificate.
+      university: GARP
+      link: garp.org
+      time: 2021
       details: |
-        Graduated from Sun Yat-sen University and got my bachelor's degree.
-          - Won Kaisi scholarship.
+        Got <strong>FRM</strong> certificate.
     - degree: AWS Certified Solutions Architect
       university: AWS
       link: aws.amazon.com
@@ -65,6 +64,13 @@ education:
       time: 2013
       details: |
         Passed <strong>An Introduction to Interactive Programming in Python</strong> course provided by Rice University.
+    - degree: BMan in Information Management and Information System
+      university: Sun Yat-Sen University
+      link: sysu.edu.cn
+      time: 2002 - 2006
+      details: |
+        Graduated from Sun Yat-sen University and got my bachelor's degree.
+          - Won Kaisi scholarship.
 experiences:
     - role: Associate Director Senior Software Architecture
       time: April 2021 - Present
