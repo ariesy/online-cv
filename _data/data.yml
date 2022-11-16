@@ -71,9 +71,13 @@ experiences:
       company: CSG Group, Moody's Analytics
       details: |
         Participate in building a new product [Risk Compass].
+          - Use AWS Glue to calculate financial and industry indicators by billions of data, then use AWS batch with python language to run random forest classification model to predict PD and calculate financial warning score.
+          - Use AWS Glue to calculate bond LGD rating model.
+          - Use AWS Glue to calculate bond market statistic data.
           - Design and set up search engine using Elasticsearch.
+          - Use JEXL to create a flexible formula scripting system to read and calculate customer functions so financial analyers can write their own templates for financial models. 
           - Design and build portfolio microservice to support portfolio module.
-          - Setup Glue ETL jobs to process bond, entity, article data.
+          - Setup Glue ETL jobs to process bond, entity, credit sentiment article data.
           - Setup a headless CMS to support real time data/config changes.
     - role: Associate Director Senior Software Architecture
       time: Nov 2020 - June 2021
