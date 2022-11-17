@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: 个人简介
     summary: |
-      欢迎浏览我的简历, 我是一个高级软件开发工程师/架构师,也担任过开发组长, 领导团队进行开发工作。
+      欢迎浏览我的简历, 我是一个高级软件开发工程师/架构师, 也担任过开发组长, 领导团队进行开发工作。
       我主要专长于: <strong>C#</strong>, <strong>Java</strong> 语言, 同时也掌握 <strong>Scala</strong>, <strong>python</strong>, <strong>Javascript</strong> 语言。
       我精通于 <strong>SQL</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS</strong> 等技术, 致力于 <strong>微服务</strong>, <strong>桌面程序</strong>, <strong>Excel插件</strong> 等开发领域。
 education:
