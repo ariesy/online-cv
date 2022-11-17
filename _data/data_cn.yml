@@ -6,12 +6,12 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
     # Profile information
     name: 朱琨
-    tagline: Senior Software Engineer / Architecture
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: 高级软件开发工程师 / 架构师 / 开发经理
+    # avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
     email: ariesyzhk@gmail.com
     phone: 18927401214
-    website: cv.zhu-kun.com #do not add http://
+    website: cv.zhu-kun.com/cn.html #do not add http://
     linkedin: kun-zhu-18b7082b
     #xing: alandoe
     github: ariesy
@@ -23,12 +23,16 @@ sidebar:
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
     #pdf: http://www.africau.edu/images/default/sample.pdf
-    languages:
-      - idiom: Chinese
-        level: Native
-      - idiom: English
-        level: Professional
+    languages:      
+      title: 语言
+      info:
+        - idiom: 中文
+          level: 母语
+        - idiom: English
+          level: 专业
     interests:
+      title: Interests 
+      info:
       - item: Watching Movies
         link:
       - item: Gaming
@@ -38,83 +42,94 @@ sidebar:
 career-profile:
     title: 个人简介
     summary: |
-      欢迎浏览我的简历，我是朱琨.我是一个高级软件开发工程师/架构师. 我也担任过开发组长，领导团队进行开发工作.
-      I am most skilled in: <strong>C#</strong> language, and also worked on <strong>Java</strong>, <strong>Javascript</strong>, <strong>python</strong> languages.
-      I am experienced in <strong>SQL</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS</strong> techniques, and worked in <strong>microservices</strong>, <strong>Winform</strong>, <strong>Excel plugins</strong> development areas.
+      欢迎浏览我的简历, 我是朱琨.我是一个高级软件开发工程师/架构师. 我也担任过开发组长, 领导团队进行开发工作.
+      我主要专长于: <strong>C#</strong>, <strong>Java</strong> 语言, 同时也掌握 <strong>Scala</strong>, <strong>python</strong>, <strong>Javascript</strong> 语言.
+      我精通于 <strong>SQL</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS</strong> 等技术, 致力于 <strong>微服务</strong>, <strong>桌面程序</strong>, <strong>Excel插件</strong> 等开发领域.
 education:
-    - degree: BMan in Information Management and Information System
-      university: Sun Yat-Sen University
-      link: sysu.edu.cn
-      time: 2002 - 2006
-      details: |
-        Graduated from Sun Yat-sen University and got my bachelor's degree.
-          - Won Kaisi scholarship.
-    - degree: AWS Certified Solutions Architect
-      university: AWS
-      link: aws.amazon.com
-      time: 2017
-    - degree: Financial Market
-      university: Yale University - Coursera online course
-      link: www.coursera.org
-      time: 2014
-      details: |
-        Passed <strong>Financial Market</strong> course provided by Yale University.
-    - degree: An Introduction to Interactive Programming in Python
-      university: Rice University - Coursera online course
-      link: www.coursera.org
-      time: 2013
-      details: |
-        Passed <strong>An Introduction to Interactive Programming in Python</strong> course provided by Rice University.
+    title: 教育
+    info:
+      - degree: 金融风险管理师
+        university: GARP
+        link: garp.org
+        time: 2021
+        details: |
+          Got <strong>FRM</strong> certificate.
+      - degree: AWS认证解决方案架构师
+        university: AWS
+        link: aws.amazon.com
+        time: 2017
+      - degree: 金融市场
+        university: Yale University - Coursera online course
+        link: www.coursera.org
+        time: 2014
+        details: |
+          Passed <strong>Financial Market</strong> course provided by Yale University.
+      - degree: Python交互式程序
+        university: Rice University - Coursera online course
+        link: www.coursera.org
+        time: 2013
+        details: |
+          Passed <strong>An Introduction to Interactive Programming in Python</strong> course provided by Rice University.
+      - degree: 信息管理于信息系统专业学士学位
+        university: 中山大学
+        link: sysu.edu.cn
+        time: 2002 - 2006
+        details: |
+          Graduated from Sun Yat-sen University and got my bachelor's degree.
+            - Won Kaisi scholarship.
 experiences:
-    - role: Associate Director Senior Software Architecture
-      time: April 2021 - Present
-      company: CSG Group, Moody's Analytics
-      details: |
-        Participate in building a new product [Risk Compass].
-          - Design and set up search engine using Elasticsearch.
-          - Design and build portfolio microservice to support portfolio module.
-          - Setup Glue ETL jobs to process bond, entity, article data.
-          - Setup a headless CMS to support real time data/config changes.
-    - role: Associate Director Senior Software Architecture
-      time: Nov 2020 - June 2021
-      company: CSG Group, Moody's Analytics
-      details: |
-        Build Scorecard service module for China Credit View product.
-          - Design and set up scorecard microservice to generate scorecard spreadsheet for different industries.
-    - role: Associate Director Senior Software Engineer Manager
-      time: Jan 2018 - Nov 2020
-      company: CSR BU, Moody's Analytics
-      details: |
-        Lead team to develop Moody's Add-in for Excel product.
-          - Design and lead team to develop Moody's Add-in for Excel SDK (A platform for other BU to integrate features and data into Moody's Add-in for Excel).
-          - Design and lead team to implement MADATA formula feature.
-          - Design Enterprise authentication for Moody's Add-in for Excel.
-    - role: Assistant / Associate Director Senior Software Engineer / Architecture
-      time: Mar 2012 - Jan 2018
-      company: Platform Division, Moody's Analytics
-      details: |
-          - Design and implement features of Moody's Add-in for Excel product.
-    - role: Technique Team Leader
-      time: June 2006 - Mar 2021
-      company: Morningstar
-      details: |
-          - Design and lead team to implement features of Morningstar Advisor Workstation product.
+    title: 工作经理
+    info:
+      - role: 副总监级高级软件架构师
+        time: 2021年4月 - 现在
+        company: CSG Group, 穆迪分析
+        details: |
+          参与设计及开发穆迪中国区的新产品 Risk Compass. (<Strong>Java, Scala, python, nodejs<Strong>)
+            - 基于AWS Glue使用10亿级别的数据来计算财报及行业指标, 再使用python利用AWS Batch来运行<strong>随机森林分类</strong>模型,用来预测公司的违约概率, 并以此计算财务预警评分。
+            - 基于AWS Glue来计算债券违约损失率评级模型。
+            - 基于AWS Glue来计算债券市场统计信息。
+            - 使用Elasticsearch搭建搜索引擎, 并修改了源码来满足我们的自定义需求, 如拼音搜索, 远程自定义词典及动态同义词功能。
+            - 使用JEXL(Java Extensible Language)创建了一个灵活的公式脚本系统, 以满足金融分析师需要创建自定义计算模板的需求。
+            - 设计并实现了一些Java微服务实现产品的业务逻辑, 包括 主体微服务, 投资组合微服务, 搜索微服务, 交互式计算微服务等。
+            - 使用AWS Glue来处理大量来自供应商的数据, 包括债券, 主体, 信用舆情文章等数据。
+            - 搭建了一个面向API的信息管理系统以满足实时数据和配置变化的需要。
+      - role: 副总监级高级软件架构师
+        time: 2020年11月 - 2021年6月
+        company: CSG Group, 穆迪分析
+        details: |
+          设计及开发Credit View中国区产品的打分卡微服务。(<Strong>.Net<Strong>)
+            - 设计及开发打分卡微服务用来提供各行业打分卡的模板生成功能。
+      - role: 副总监级高级软件开发经理
+        time: 2012年3月 - 2020年11月
+        company: CSR BU, 穆迪分析
+        details: |
+          带领团队开发穆迪Excel插件产品.(<Strong>.Net<Strong>)
+            - 设计并领导团队开发穆迪Excel开发者工具箱 (一个用来将穆迪其他部门的数据及业务功能自动集成到穆迪Excel插件的平台).
+            - 设计并领导团队开发穆迪Excel插件上的MADATA自定义公式。
+            - 设计穆迪Excel插件的企业登录功能。
+            - 设计及开发穆迪Excel插件的其他功能。
+      
+      - role: 开发组长
+        time: 2006年6月 - 2021三月
+        company: 晨星资讯
+        details: |
+            - 设计并领导团队开发晨星投资顾问工作站产品。
 projects:
-    title: Projects
+    title: 个人项目
     intro: >
-      My personal projects
+      我的个人小工具
     assignments:
       - title: PiPiName
         link: "github.com/ariesy/PiPiName"
-        tagline: "A Python tool to pick name for my kid."
-      - title: Bowling
-        link: "github.com/ariesy/Bowling"
-        tagline: "A Winform application to calculate bowling score."
+        tagline: "用python写的一个给我的宝宝取名字的工具。"
+      - title: covid-risk-area
+        link: "github.com/ariesy/covid-risk-area"
+        tagline: "一个每天爬取国务院新冠风险区域的python爬虫。"
       - title: DragDropControl
         link: "github.com/ariesy/Sirius.DragDropControl"
-        tagline: "A Winform customized datagrid control supporting drag and drop."
+        tagline: "一个可支持拖拽的自定义winform控件。"
 skills:
-    title: Skills &amp; Proficiency
+    title: 技能水平
     toolset:
       - name: C# & .NET
         level: 98%
@@ -132,9 +147,11 @@ skills:
         level: 80%
       - name: Java
         level: 80%
+      - name: Scala
+        level: 75%
       - name: Javascript & React & Nodejs
         level: 70%
       - name: HTML5 & CSS
         level: 60%
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

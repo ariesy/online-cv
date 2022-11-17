@@ -6,7 +6,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
     # Profile information
     name: Kun Zhu
-    tagline: Senior Software Engineer / Architecture
+    tagline: Senior Software Engineer / Architecture / Manager
     #avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
     email: ariesyzhk@gmail.com
@@ -43,7 +43,7 @@ career-profile:
     title: Career Profile
     summary: |
       Hi, my name's Kun Zhu and I'm a senior software engineer/architecture. I have also worked as a team manager to lead team development.
-      I am most skilled in: <strong>C#</strong> language, and also worked on <strong>Java</strong>, <strong>Javascript</strong>, <strong>python</strong> languages.
+      I am most skilled in: <strong>C#</strong>, <strong>Java</strong> language , and also worked on <strong>Scala</strong>, <strong>python</strong>, <strong>Javascript</strong> languages.
       I am experienced in <strong>SQL</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS</strong> techniques, and worked in <strong>microservices</strong>, <strong>Winform</strong>, <strong>Excel plugins</strong> development areas.
 education:
     title: Education
@@ -85,10 +85,10 @@ experiences:
         company: CSG Group, Moody's Analytics
         details: |
           Participate in building a new product Risk Compass. (<Strong>Java, Scala, python, nodejs<Strong>)
-            - Use AWS Glue to calculate financial and industry indicators by billions of data, then use AWS batch with python to run <strong>Random Forest Classification</strong> model to predict PD and calculate financial warning score.
+            - Use AWS Glue to calculate financial statement and industry indicators by billions of data, then use AWS batch with python to run <strong>Random Forest Classification</strong> model to predict PD and calculate financial warning score.
             - Use AWS Glue to calculate bond LGD rating model.
             - Use AWS Glue to calculate bond market statistic data.
-            - Set up search engine with Elasticsearch, customize some search features to support Chinease pinyin search.
+            - Set up search engine with Elasticsearch, customize some search features to support Chinease pinyin search and remote dict and dynamic synonym.
             - Use JEXL(Java Extensible Language) to create a flexible formula scripting system to read and calculate customer functions so financial analyers can write their own templates for financial models. 
             - Design and impliment some Java microservices for business logics, including entity service, portfolio service, search service, interactive-calculation service, etc.
             - Setup Glue ETL jobs to process bond, entity, credit sentiment article data.
@@ -100,18 +100,15 @@ experiences:
           Build Scorecard service module for China Credit View product.(<Strong>.Net<Strong>)
             - Design and set up scorecard microservice to generate scorecard spreadsheet for different industries.
       - role: Associate Director Senior Software Engineer Manager
-        time: Jan 2018 - Nov 2020
+        time: Mar 2012 - Nov 2020
         company: CSR BU, Moody's Analytics
         details: |
           Lead team to develop Moody's Add-in for Excel product.(<Strong>.Net<Strong>)
             - Design and lead team to develop Moody's Add-in for Excel SDK (A platform for other BU to integrate features and data into Moody's Add-in for Excel).
             - Design and lead team to implement MADATA formula feature.
             - Design Enterprise authentication for Moody's Add-in for Excel.
-      - role: Associate Director Senior Software Engineer / Architecture
-        time: Mar 2012 - Jan 2018
-        company: Platform Division, Moody's Analytics
-        details: |
-            - Design and implement features of Moody's Add-in for Excel product.(<Strong>.Net<Strong>)
+            - Design and impliment Moody's Add-in for Excel features.
+      
       - role: Technique Team Leader
         time: June 2006 - Mar 2021
         company: Morningstar
@@ -156,5 +153,5 @@ skills:
         level: 70%
       - name: HTML5 & CSS
         level: 60%
-footer: >
-    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
