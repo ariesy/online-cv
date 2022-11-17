@@ -42,9 +42,9 @@ sidebar:
 career-profile:
     title: 个人简介
     summary: |
-      欢迎浏览我的简历, 我是朱琨. 我是一个高级软件开发工程师/架构师. 我也担任过开发组长, 领导团队进行开发工作.
-      我主要专长于: <strong>C#</strong>, <strong>Java</strong> 语言, 同时也掌握 <strong>Scala</strong>, <strong>python</strong>, <strong>Javascript</strong> 语言.
-      我精通于 <strong>SQL</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS</strong> 等技术, 致力于 <strong>微服务</strong>, <strong>桌面程序</strong>, <strong>Excel插件</strong> 等开发领域.
+      欢迎浏览我的简历, 我是一个高级软件开发工程师/架构师,也担任过开发组长, 领导团队进行开发工作。
+      我主要专长于: <strong>C#</strong>, <strong>Java</strong> 语言, 同时也掌握 <strong>Scala</strong>, <strong>python</strong>, <strong>Javascript</strong> 语言。
+      我精通于 <strong>SQL</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS</strong> 等技术, 致力于 <strong>微服务</strong>, <strong>桌面程序</strong>, <strong>Excel插件</strong> 等开发领域。
 education:
     title: 教育
     info:
@@ -84,7 +84,7 @@ experiences:
         time: 2021年4月 - 现在
         company: CSG Group, 穆迪分析
         details: |
-          参与设计及开发穆迪中国区的新产品 Risk Compass. (<Strong>Java, Scala, python, nodejs<Strong>)
+          参与设计及开发穆迪中国区的新产品 Risk Compass。 (<Strong>Java, Scala, python, nodejs<Strong>)
             - 基于AWS Glue使用10亿级别的数据来计算财报及行业指标, 再使用python利用AWS Batch来运行<strong>随机森林分类</strong>模型,用来预测公司的违约概率, 并以此计算财务预警评分。
             - 基于AWS Glue来计算债券违约损失率评级模型。
             - 基于AWS Glue来计算债券市场统计信息。
@@ -103,7 +103,7 @@ experiences:
         time: 2012年3月 - 2020年11月
         company: CSR BU, 穆迪分析
         details: |
-          带领团队开发穆迪Excel插件产品.(<Strong>.Net<Strong>)
+          带领团队开发穆迪Excel插件产品。(<Strong>.Net<Strong>)
             - 设计并领导团队开发穆迪Excel开发者工具箱 (一个用来将穆迪其他部门的数据及业务功能自动集成到穆迪Excel插件的平台).
             - 设计并领导团队开发穆迪Excel插件上的MADATA自定义公式。
             - 设计穆迪Excel插件的企业登录功能。
