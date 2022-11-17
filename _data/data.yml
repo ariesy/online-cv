@@ -24,17 +24,21 @@ sidebar:
     #goodreads: # Number-Username, e.g. 123456-alandoe
     #pdf: http://www.africau.edu/images/default/sample.pdf
     languages:
-      - idiom: Chinese
-        level: Native
-      - idiom: English
-        level: Professional
+      title: Languages
+      info:
+        - idiom: Chinese
+          level: Native
+        - idiom: English
+          level: Professional
     interests:
-      - item: Watching Movies
-        link:
-      - item: Gaming
-        link:
-      - item: Jugging
-        link:
+      title: Interests 
+      info:
+        - item: Watching Movies
+          link:
+        - item: Gaming
+          link:
+        - item: Jugging
+          link:
 career-profile:
     title: Career Profile
     summary: |
@@ -42,73 +46,77 @@ career-profile:
       I am most skilled in: <strong>C#</strong> language, and also worked on <strong>Java</strong>, <strong>Javascript</strong>, <strong>python</strong> languages.
       I am experienced in <strong>SQL</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS</strong> techniques, and worked in <strong>microservices</strong>, <strong>Winform</strong>, <strong>Excel plugins</strong> development areas.
 education:
-    - degree: FRM certificate
-      university: GARP
-      link: garp.org
-      time: 2021
-      details: |
-        Got <strong>FRM</strong> certificate.
-    - degree: AWS Certified Solutions Architect
-      university: AWS
-      link: aws.amazon.com
-      time: 2017
-    - degree: Financial Market
-      university: Yale University - Coursera online course
-      link: www.coursera.org
-      time: 2014
-      details: |
-        Passed <strong>Financial Market</strong> course provided by Yale University.
-    - degree: An Introduction to Interactive Programming in Python
-      university: Rice University - Coursera online course
-      link: www.coursera.org
-      time: 2013
-      details: |
-        Passed <strong>An Introduction to Interactive Programming in Python</strong> course provided by Rice University.
-    - degree: BMan in Information Management and Information System
-      university: Sun Yat-Sen University
-      link: sysu.edu.cn
-      time: 2002 - 2006
-      details: |
-        Graduated from Sun Yat-sen University and got my bachelor's degree.
-          - Won Kaisi scholarship.
+    title: Education
+    info:
+      - degree: FRM certificate
+        university: GARP
+        link: garp.org
+        time: 2021
+        details: |
+          Got <strong>FRM</strong> certificate.
+      - degree: AWS Certified Solutions Architect
+        university: AWS
+        link: aws.amazon.com
+        time: 2017
+      - degree: Financial Market
+        university: Yale University - Coursera online course
+        link: www.coursera.org
+        time: 2014
+        details: |
+          Passed <strong>Financial Market</strong> course provided by Yale University.
+      - degree: An Introduction to Interactive Programming in Python
+        university: Rice University - Coursera online course
+        link: www.coursera.org
+        time: 2013
+        details: |
+          Passed <strong>An Introduction to Interactive Programming in Python</strong> course provided by Rice University.
+      - degree: BMan in Information Management and Information System
+        university: Sun Yat-Sen University
+        link: sysu.edu.cn
+        time: 2002 - 2006
+        details: |
+          Graduated from Sun Yat-sen University and got my bachelor's degree.
+            - Won Kaisi scholarship.
 experiences:
-    - role: Associate Director Senior Software Architecture
-      time: April 2021 - Present
-      company: CSG Group, Moody's Analytics
-      details: |
-        Participate in building a new product [Risk Compass].
-          - Use AWS Glue to calculate financial and industry indicators by billions of data, then use AWS batch with python language to run Random <strong>Forest Classification</strong> model to predict PD and calculate financial warning score.
-          - Use AWS Glue to calculate bond LGD rating model.
-          - Use AWS Glue to calculate bond market statistic data.
-          - Design and set up search engine using Elasticsearch.
-          - Use JEXL to create a flexible formula scripting system to read and calculate customer functions so financial analyers can write their own templates for financial models. 
-          - Design and build portfolio microservice to support portfolio module.
-          - Setup Glue ETL jobs to process bond, entity, credit sentiment article data.
-          - Setup a headless CMS to support real time data/config changes.
-    - role: Associate Director Senior Software Architecture
-      time: Nov 2020 - June 2021
-      company: CSG Group, Moody's Analytics
-      details: |
-        Build Scorecard service module for China Credit View product.
-          - Design and set up scorecard microservice to generate scorecard spreadsheet for different industries.
-    - role: Associate Director Senior Software Engineer Manager
-      time: Jan 2018 - Nov 2020
-      company: CSR BU, Moody's Analytics
-      details: |
-        Lead team to develop Moody's Add-in for Excel product.
-          - Design and lead team to develop Moody's Add-in for Excel SDK (A platform for other BU to integrate features and data into Moody's Add-in for Excel).
-          - Design and lead team to implement MADATA formula feature.
-          - Design Enterprise authentication for Moody's Add-in for Excel.
-    - role: Associate Director Senior Software Engineer / Architecture
-      time: Mar 2012 - Jan 2018
-      company: Platform Division, Moody's Analytics
-      details: |
-          - Design and implement features of Moody's Add-in for Excel product.
-    - role: Technique Team Leader
-      time: June 2006 - Mar 2021
-      company: Morningstar
-      details: |
-          - Design and lead team to implement features of Morningstar Advisor Workstation product.
+    title: Experiences
+    info:
+      - role: Associate Director Senior Software Architecture
+        time: April 2021 - Present
+        company: CSG Group, Moody's Analytics
+        details: |
+          Participate in building a new product [Risk Compass].
+            - Use AWS Glue to calculate financial and industry indicators by billions of data, then use AWS batch with python language to run Random <strong>Forest Classification</strong> model to predict PD and calculate financial warning score.
+            - Use AWS Glue to calculate bond LGD rating model.
+            - Use AWS Glue to calculate bond market statistic data.
+            - Design and set up search engine using Elasticsearch.
+            - Use JEXL to create a flexible formula scripting system to read and calculate customer functions so financial analyers can write their own templates for financial models. 
+            - Design and build portfolio microservice to support portfolio module.
+            - Setup Glue ETL jobs to process bond, entity, credit sentiment article data.
+            - Setup a headless CMS to support real time data/config changes.
+      - role: Associate Director Senior Software Architecture
+        time: Nov 2020 - June 2021
+        company: CSG Group, Moody's Analytics
+        details: |
+          Build Scorecard service module for China Credit View product.
+            - Design and set up scorecard microservice to generate scorecard spreadsheet for different industries.
+      - role: Associate Director Senior Software Engineer Manager
+        time: Jan 2018 - Nov 2020
+        company: CSR BU, Moody's Analytics
+        details: |
+          Lead team to develop Moody's Add-in for Excel product.
+            - Design and lead team to develop Moody's Add-in for Excel SDK (A platform for other BU to integrate features and data into Moody's Add-in for Excel).
+            - Design and lead team to implement MADATA formula feature.
+            - Design Enterprise authentication for Moody's Add-in for Excel.
+      - role: Associate Director Senior Software Engineer / Architecture
+        time: Mar 2012 - Jan 2018
+        company: Platform Division, Moody's Analytics
+        details: |
+            - Design and implement features of Moody's Add-in for Excel product.
+      - role: Technique Team Leader
+        time: June 2006 - Mar 2021
+        company: Morningstar
+        details: |
+            - Design and lead team to implement features of Morningstar Advisor Workstation product.
 projects:
     title: Projects
     intro: >
