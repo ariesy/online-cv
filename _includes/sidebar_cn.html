@@ -1,9 +1,9 @@
-{% assign sidebar = site.data.data.sidebar %}
+{% assign sidebar = site.data.data_cn.sidebar %}
 <div class="sidebar-wrapper">
   <!-- <div class="sidebar-version"><a href="/" >英文版</a></div> -->
   <div class="profile-container">
     
-    {% if sidebar.name && sidebar.avatar %}
+    {% if sidebar.name and sidebar.avatar %}
     <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
     {% endif %}
 
