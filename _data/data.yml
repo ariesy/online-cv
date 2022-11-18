@@ -103,11 +103,11 @@ experiences:
         time: Mar 2012 - Nov 2020
         company: CSR BU, Moody's Analytics
         details: |
-          Lead team to develop Moody's Add-in for Excel product.(<Strong>.Net<Strong>)
+          Lead team to develop Moody's Add-in for Excel product.(<Strong>.Net, .Net core microservices<Strong>)
             - Design and lead team to develop Moody's Add-in for Excel SDK (A platform for other BU to integrate features and data into Moody's Add-in for Excel).
             - Design and lead team to implement MADATA formula feature.
             - Design Enterprise authentication for Moody's Add-in for Excel.
-            - Design and impliment Moody's Add-in for Excel features.
+            - Design and impliment microservices to support data retriever and formula calculation features of Moody's Add-in for Excel.
       
       - role: Technique Team Leader
         time: June 2006 - Mar 2012

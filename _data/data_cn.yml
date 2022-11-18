@@ -103,11 +103,11 @@ experiences:
         time: 2012年3月 - 2020年11月
         company: CSR BU, 穆迪分析
         details: |
-          带领团队开发穆迪Excel插件产品。(<Strong>.Net<Strong>)
+          带领团队开发穆迪Excel插件产品。(<Strong>.Net, .Net core microservices<Strong>)
             - 设计并领导团队开发穆迪Excel开发者工具箱 (一个用来将穆迪其他部门的数据及业务功能自动集成到穆迪Excel插件的平台)。
             - 设计并领导团队开发穆迪Excel插件上的MADATA自定义公式。
             - 设计穆迪Excel插件的企业登录功能。
-            - 设计及开发穆迪Excel插件的其他功能。
+            - 设计及开发穆迪Excel插件的后台微服务以提供数据获取及公式计算的功能。
       
       - role: 开发组长
         time: 2006年6月 - 2012三月
