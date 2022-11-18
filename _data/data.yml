@@ -84,7 +84,7 @@ experiences:
         time: April 2021 - Present
         company: CSG Group, Moody's Analytics
         details: |
-          Participate in building a new product Risk Compass. (<Strong>Java, Scala, python, nodejs<Strong>)
+          Participate in building a new product Risk Compass. (<Strong>Java, Scala, python, nodejs</Strong>)
             - Use AWS Glue to calculate financial statement and industry indicators by billions of data, then use AWS batch with python to run <strong>Random Forest Classification</strong> model to predict PD and calculate financial warning score.
             - Use AWS Glue to calculate bond LGD rating model.
             - Use AWS Glue to calculate bond market statistic data.
@@ -97,13 +97,13 @@ experiences:
         time: Nov 2020 - June 2021
         company: CSG Group, Moody's Analytics
         details: |
-          Build Scorecard service module for China Credit View product.(<Strong>.Net<Strong>)
+          Build Scorecard service module for China Credit View product.(<Strong>.Net</Strong>)
             - Design and set up scorecard microservice to generate scorecard spreadsheet for different industries.
       - role: Associate Director Senior Software Engineer Manager
         time: Mar 2012 - Nov 2020
         company: CSR BU, Moody's Analytics
         details: |
-          Lead team to develop Moody's Add-in for Excel product.(<Strong>.Net, .Net core microservices<Strong>)
+          Lead team to develop Moody's Add-in for Excel product.(<Strong>.Net, .Net core microservices</Strong>)
             - Design and lead team to develop Moody's Add-in for Excel SDK (A platform for other BU to integrate features and data into Moody's Add-in for Excel).
             - Design and lead team to implement MADATA formula feature.
             - Design Enterprise authentication for Moody's Add-in for Excel.
@@ -113,7 +113,7 @@ experiences:
         time: June 2006 - Mar 2012
         company: Morningstar
         details: |
-            - Design and lead team to implement features of Morningstar Advisor Workstation product.(<Stong>.Net Framework</Strong>)
+            - Design and lead team to implement features of Morningstar Advisor Workstation product.(<Strong>.Net Framework</strong>)
 projects:
     title: Projects
     intro: >
