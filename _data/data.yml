@@ -85,12 +85,12 @@ experiences:
         company: CSG Group, Moody's Analytics
         details: |
           Participate in building a new product Risk Compass. (<Strong>Java, Scala, python, nodejs</Strong>)
-            - Use AWS Glue to calculate financial statement and industry indicators by billions of data, then use AWS batch with python to run <strong>Random Forest Classification</strong> model to predict PD and calculate financial warning score.
+            - Use AWS Glue(AWS managed spark big data platform) to calculate financial statement and industry indicators by billions of data, then use AWS batch with python to run <strong>Random Forest Classification</strong> model to predict PD and calculate financial warning score.
             - Use AWS Glue to calculate bond LGD rating model.
             - Use AWS Glue to calculate bond market statistic data.
             - Set up search engine with Elasticsearch, customize some search features to support Chinease pinyin search and remote dict and dynamic synonym.
             - Use JEXL(Java Extensible Language) to create a flexible formula scripting system to read and calculate customer functions so financial analyers can write their own templates for financial models. 
-            - Design and impliment some Java microservices for business logics, including entity service, portfolio service, search service, interactive-calculation service, etc.
+            - Design and impliment Java microservices in a distribute system for business logics, including entity service, portfolio service, search service, interactive-calculation service, etc.
             - Setup Glue ETL jobs to process bond, entity, credit sentiment article data.
             - Setup a headless CMS to support real time data/config changes.
       - role: Associate Director Senior Software Architecture
@@ -107,7 +107,7 @@ experiences:
             - Design and lead team to develop Moody's Add-in for Excel SDK (A platform for other BU to integrate features and data into Moody's Add-in for Excel).
             - Design and lead team to implement MADATA formula feature.
             - Design Enterprise authentication for Moody's Add-in for Excel.
-            - Design and impliment microservices to support data retriever and formula calculation features of Moody's Add-in for Excel.
+            - Design and impliment .Net core microservices to support data retriever and formula calculation features of Moody's Add-in for Excel.
       
       - role: Technique Team Leader
         time: June 2006 - Mar 2012
