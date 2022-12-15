@@ -4,5 +4,12 @@
         "MD025": {
             "front_matter_title": ""
         }
+    },
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f",
+        "activityBar.background": "#4A096A",
+        "titleBar.activeBackground": "#680D94",
+        "titleBar.activeForeground": "#FEFCFF"
     }
 }
