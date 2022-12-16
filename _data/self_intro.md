@@ -1,3 +1,5 @@
+## self intro
+
 Hi, I'm Kun Zhu. I work as a senior software architect at Moody's Analytics right now, I also worked as a team manager at Moody's a few years ago. 
 I'm most skilled in C#, and Java language,  and also worked on Scala, python, and javascript for a few years.
 I am experienced in SQL, Elasticsearch, Redis, and AWS Cloud techniques, and worked in microservices, Winform, and Excel plugins development areas. 

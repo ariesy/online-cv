@@ -39,9 +39,9 @@ We should always keep in mind that the system is not only for the current situat
 
 The FRM exam has two parts. Part one is the basic knowledge about risk management. it includes foundations of risk management, quantitative analysis, financial markets and products, and risk valuation and risk models. Part two discusses financial risk management from different aspects, including market risk measurement and management, credit risk measurement and management, operational risk and risk resilience, liquidity and treasury risk measurement and management, risk management and investment management and current issues in financial markets. 
 
-## Can you provide examples of how you have successfully completed projects on time and within budget?
-
 ## How do you stay up-to-date on the latest trends and developments in the field of architecture?
+
+We have some technique committees that will discuss the latest updates on schedule, we also have some internal and offsite trainings. I personally also subscribed to some social media and blogs to get the latest updates.
 
 ## Have you received any awards or recognition for your work as an architect?
 
@@ -57,16 +57,12 @@ The FRM exam has two parts. Part one is the basic knowledge about risk managemen
 
 ## How do you manage multiple projects and deadlines at the same time?
 
+priorities tasks, and identify importance, urgency, and dependencies.
+
 ## Can you provide examples of how you have successfully worked with a diverse range of clients and stakeholders?
+
+arrange meeting times in turn with US strategy. 
 
 ## How do you handle difficult or confrontational situations with clients or team members?
 
-## Have you worked on any historic preservation or adaptive reuse projects and, if so, can you discuss your approach to these types of projects?
-
-## What do you enjoy most about working as an architect and what are some of the biggest challenges you face in this field?
-
-## How do you handle feedback and criticism from clients or team members and how do you incorporate it into your work?
-
-## Have you been involved in any community design or planning initiatives and, if so, can you discuss your experience and the impact of your work?
-
-## Do you have any specific long-term goals or aspirations as an architect and how do you plan to achieve them?
+Enterprise authentication case.
