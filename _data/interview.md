@@ -24,23 +24,49 @@ In a new project Risk Compass, I set up a search engine with Elasticsearch to su
 
 What's the career promotion path as an architect at Prudential?
 
-Can you tell me a little bit about your education and professional experience as an architect?
-What design software are you proficient in and what projects have you worked on in the past?
-What is your design philosophy and how do you approach the design process?
-Can you provide examples of how you have successfully completed projects on time and within budget?
-How do you stay up-to-date on the latest trends and developments in the field of architecture?
-Have you received any awards or recognition for your work as an architect?
-How do you collaborate with clients and other members of the design team?
-Can you provide examples of how you have incorporated sustainability and green building practices into your designs?
-What sets you apart from other candidates and why do you think you would be a good fit for Prudential?
-Do you have any questions for me about the job or the company?
-Can you describe a challenging project that you have worked on and how you overcame any obstacles that arose?
-How do you balance creativity and functionality in your designs?
-How do you manage multiple projects and deadlines at the same time?
-Can you provide examples of how you have successfully worked with a diverse range of clients and stakeholders?
-How do you handle difficult or confrontational situations with clients or team members?
-Have you worked on any historic preservation or adaptive reuse projects and, if so, can you discuss your approach to these types of projects?
-What do you enjoy most about working as an architect and what are some of the biggest challenges you face in this field?
-How do you handle feedback and criticism from clients or team members and how do you incorporate it into your work?
-Have you been involved in any community design or planning initiatives and, if so, can you discuss your experience and the impact of your work?
-Do you have any specific long-term goals or aspirations as an architect and how do you plan to achieve them?
+## Can you tell me a little bit about your education and professional experience as an architect?
+
+I got an AWS certified solution architect certificate in 2017. In the project Risk Compass, I designed a search engine to support the whole platform.
+
+## What design software are you proficient in and what projects have you worked on in the past?
+
+## What is your design philosophy and how do you approach the design process?
+
+A good system design should be strong and resilient. It should be able to handle unexpected situations and adapt to changes. It should be easy to maintain and extend.
+We should always keep in mind that the system is not only for the current situation but also for the future. However, we should not over-design the system too. We need to balance the current situation and the future. For some mature extensible techniques, First, we need to understand the requirements clearly. We should also ask questions about the in which way the system may evolve. We should also consider how the new system can fit into our current system. We should also consider the cost of the extensible design. 
+
+## what did you learn in FRM?
+
+The FRM exam has two parts. Part one is the basic knowledge about risk management. it includes foundations of risk management, quantitative analysis, financial markets and products, and risk valuation and risk models. Part two discusses financial risk management from different aspects, including market risk measurement and management, credit risk measurement and management, operational risk and risk resilience, liquidity and treasury risk measurement and management, risk management and investment management and current issues in financial markets. 
+
+## Can you provide examples of how you have successfully completed projects on time and within budget?
+
+## How do you stay up-to-date on the latest trends and developments in the field of architecture?
+
+## Have you received any awards or recognition for your work as an architect?
+
+## How do you collaborate with clients and other members of the design team?
+
+## Can you provide examples of how you have incorporated sustainability and green building practices into your designs?
+
+## What sets you apart from other candidates and why do you think you would be a good fit for Prudential?
+
+## Can you describe a challenging project that you have worked on and how you overcame any obstacles that arose?
+
+## How do you balance creativity and functionality in your designs?
+
+## How do you manage multiple projects and deadlines at the same time?
+
+## Can you provide examples of how you have successfully worked with a diverse range of clients and stakeholders?
+
+## How do you handle difficult or confrontational situations with clients or team members?
+
+## Have you worked on any historic preservation or adaptive reuse projects and, if so, can you discuss your approach to these types of projects?
+
+## What do you enjoy most about working as an architect and what are some of the biggest challenges you face in this field?
+
+## How do you handle feedback and criticism from clients or team members and how do you incorporate it into your work?
+
+## Have you been involved in any community design or planning initiatives and, if so, can you discuss your experience and the impact of your work?
+
+## Do you have any specific long-term goals or aspirations as an architect and how do you plan to achieve them?
