@@ -17,7 +17,7 @@ Why do you stay so long in Moodys?
 I joined a new team in Moodys, people in my team and other teams are young and enthusiastic. I learned a lot from my colleagues. We can discuss and learn new techniques together and use that to improve our product. Also, Moodys has a very human orientation culture. It encourages employees to learn new things and improve themselves. I think it is a good place to learn and grow. It also encourages work-life balance. I think it is a good place to work.
 
 ## What is your biggest achievement in Moodys?
-
+Hackday
 In a new project Risk Compass, I set up a search engine with Elasticsearch to support the search feature of the whole platform. It is a very challenging project. The official Elasticsearch does not support Chinese and Chinese Pinyin searches. I had to make a lot of customization to make it work.
 
 ## Do you have any questions for us?
@@ -37,23 +37,11 @@ We should always keep in mind that the system is not only for the current situat
 
 ## what did you learn in FRM?
 
-The FRM exam has two parts. Part one is the basic knowledge about risk management. it includes foundations of risk management, quantitative analysis, financial markets and products, and risk valuation and risk models. Part two discusses financial risk management from different aspects, including market risk measurement and management, credit risk measurement and management, operational risk and risk resilience, liquidity and treasury risk measurement and management, risk management and investment management and current issues in financial markets. 
+The FRM exam has two parts. Part one is the basic knowledge about risk management. it includes foundations of risk management, quantitative analysis, financial markets and products, and risk valuation and risk models. Part two discusses financial risk management in different areas, including market risk measurement and management, credit risk measurement and management, operational risk and risk resilience, liquidity and treasury risk measurement and management, risk management and investment management and current issues in financial markets. 
 
 ## How do you stay up-to-date on the latest trends and developments in the field of architecture?
 
 We have some technique committees that will discuss the latest updates on schedule, we also have some internal and offsite trainings. I personally also subscribed to some social media and blogs to get the latest updates.
-
-## Have you received any awards or recognition for your work as an architect?
-
-## How do you collaborate with clients and other members of the design team?
-
-## Can you provide examples of how you have incorporated sustainability and green building practices into your designs?
-
-## What sets you apart from other candidates and why do you think you would be a good fit for Prudential?
-
-## Can you describe a challenging project that you have worked on and how you overcame any obstacles that arose?
-
-## How do you balance creativity and functionality in your designs?
 
 ## How do you manage multiple projects and deadlines at the same time?
 
@@ -61,7 +49,7 @@ priorities tasks, and identify importance, urgency, and dependencies.
 
 ## Can you provide examples of how you have successfully worked with a diverse range of clients and stakeholders?
 
-arrange meeting times in turn with US strategy. 
+arrange meeting times in turn with US strategy.
 
 ## How do you handle difficult or confrontational situations with clients or team members?
 
