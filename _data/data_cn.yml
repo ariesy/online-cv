@@ -44,7 +44,7 @@ career-profile:
     summary: |
       欢迎浏览我的简历, 我是一个高级软件开发工程师/架构师, 也担任过开发组长, 领导团队进行开发工作。
       我主要专长于: <strong>C#</strong>, <strong>Java</strong> 语言, 同时也掌握 <strong>Scala</strong>, <strong>python</strong>, <strong>Javascript</strong> 语言。
-      我精通于 <strong>SQL</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS云</strong> 等技术, 致力于 <strong>微服务</strong>, <strong>桌面程序</strong>, <strong>Excel插件</strong> 等开发领域。
+      我精通于 <strong>SQL</strong>,<strong>Spring</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS云</strong> 等技术, 致力于 <strong>微服务</strong>, <strong>桌面程序</strong>, <strong>Excel插件</strong> 等开发领域。
 education:
     title: 教育
     info:
@@ -90,7 +90,7 @@ experiences:
             - 基于AWS Glue来计算债券市场统计信息。
             - 使用Elasticsearch搭建搜索引擎, 并修改了源码来满足我们的自定义需求, 如拼音搜索, 远程自定义词典及动态同义词功能。
             - 使用JEXL(Java Extensible Language)创建了一个灵活的公式脚本系统, 以满足金融分析师需要创建自定义计算模板的需求。
-            - 设计并实现了一个分布式系统中的Java微服务以实现产品的业务逻辑, 包括 主体微服务, 投资组合微服务, 搜索微服务, 交互式计算微服务等。
+            - 设计并实现了一个分布式系统中的Java Spring boot微服务以实现产品的业务逻辑, 包括 主体微服务, 投资组合微服务, 搜索微服务, 交互式计算微服务等。
             - 使用AWS Glue来处理大量来自供应商的数据, 包括债券, 主体, 信用舆情文章等数据。
             - 搭建了一个面向API的信息管理系统以满足实时数据和配置变化的需要。
       - role: 副总监级高级软件架构师

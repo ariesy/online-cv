@@ -44,7 +44,7 @@ career-profile:
     summary: |
       Hi, my name's Kun Zhu and I'm a senior software engineer/architect. I have also worked as a team manager to lead team development.
       I am most skilled in: <strong>C#</strong>, <strong>Java</strong> language , and also worked on <strong>Scala</strong>, <strong>python</strong>, <strong>Javascript</strong> languages.
-      I am experienced in <strong>SQL</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS Cloud</strong> techniques, and worked in <strong>microservices</strong>, <strong>Winform</strong>, <strong>Excel plugins</strong> development areas.
+      I am experienced in <strong>SQL</strong>,<strong>Spring</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS Cloud</strong> techniques, and worked in <strong>microservices</strong>, <strong>Winform</strong>, <strong>Excel plugins</strong> development areas.
 education:
     title: Education
     info:
@@ -90,7 +90,7 @@ experiences:
             - Use AWS Glue to calculate bond market statistic data.
             - Set up search engine with Elasticsearch, customize some search features to support Chinease pinyin search and remote dict and dynamic synonym.
             - Use JEXL(Java Extensible Language) to create a flexible formula scripting system to read and calculate customer functions so financial analyers can write their own templates for financial models. 
-            - Design and impliment Java microservices in a distribute system for business logics, including entity service, portfolio service, search service, interactive-calculation service, etc.
+            - Design and impliment Java microservices with Spring boot in a distribute system for business logics, including entity service, portfolio service, search service, interactive-calculation service, etc.
             - Setup Glue ETL jobs to process bond, entity, credit sentiment article data.
             - Setup a headless CMS to support real time data/config changes.
       - role: Associate Director Senior Software Architecture
