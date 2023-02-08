@@ -126,13 +126,13 @@ projects:
       My personal projects
     assignments:
       - title: PiPiName
-        link: "github.com/ariesy/PiPiName"
+        link: "https://github.com/ariesy/PiPiName"
         tagline: "A Python tool to pick name for my kid."
       - title: covid-risk-area
-        link: "github.com/ariesy/covid-risk-area"
+        link: "https://github.com/ariesy/covid-risk-area"
         tagline: "A python crawler to get covid risk area data with a daily schedule."
       - title: DragDropControl
-        link: "github.com/ariesy/Sirius.DragDropControl"
+        link: "https://github.com/ariesy/Sirius.DragDropControl"
         tagline: "A Winform customized datagrid control supporting drag and drop."
 skills:
     title: Skills &amp; Proficiency

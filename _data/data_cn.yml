@@ -120,13 +120,13 @@ projects:
       我的个人小工具
     assignments:
       - title: PiPiName
-        link: "github.com/ariesy/PiPiName"
+        link: "https://github.com/ariesy/PiPiName"
         tagline: "用python写的一个给我的宝宝取名字的工具。"
       - title: covid-risk-area
-        link: "github.com/ariesy/covid-risk-area"
+        link: "https://github.com/ariesy/covid-risk-area"
         tagline: "一个每天爬取国务院新冠风险区域的python爬虫。"
       - title: DragDropControl
-        link: "github.com/ariesy/Sirius.DragDropControl"
+        link: "https://github.com/ariesy/Sirius.DragDropControl"
         tagline: "一个可支持拖拽的自定义winform控件。"
 skills:
     title: 技能水平
