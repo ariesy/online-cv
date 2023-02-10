@@ -109,14 +109,14 @@ experiences:
             - 设计穆迪Excel插件的企业登录功能。
             - 设计及开发穆迪Excel插件的后台.Net core微服务以提供数据获取及公式计算的功能。
       - role: Organize MA Shenzhen Hackday Event
-        time: Sept 2019 - Nov 2019
+        time: 2019年9月 - 2019年11月
         company: CSR BU, Moody's Analytics
         details: |
           与穆迪MAA团队合作, 组织并筹备穆迪深圳办公室的Hackday活动。
           作为穆迪MAA全球办公室的Hackday活动系列之一, 本次活动需要遵循MAA提供的一些指导原则和标准, 同时也需要具有本地化的特点。我需要与多个部门的人员合作来筹备并使本次活动顺利进行。
           最终本次活动顺利进行, 我们有17个团队参与了多个有趣的POC项目, 5个不同领域的奖项被授予了候选团队。其中一个POC项目最终进入了生产环境, 成为了穆迪的一个新产品。
       - role: 开发组长
-        time: 2006年6月 - 2012三月
+        time: 2006年6月 - 2012年3月
         company: 晨星资讯
         details: |
             - 设计并领导团队开发晨星投资顾问工作站产品。(<Strong>.Net Framework</strong>)
