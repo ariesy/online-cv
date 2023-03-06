@@ -43,7 +43,7 @@ career-profile:
     title: Career Profile
     summary: |
       Hi, my name's Kun Zhu and I'm a senior software engineer/architect. I have also worked as a team manager to lead team development.
-      I am most skilled in: <strong>C#</strong>, <strong>Java</strong> language , and also worked on <strong>Scala</strong>, <strong>python</strong>, <strong>Javascript</strong> languages.
+      I am most skilled in: <strong>Java</strong>, <strong>C#</strong> language , and also worked on <strong>Scala</strong>, <strong>python</strong>, <strong>Javascript</strong> languages.
       I am experienced in <strong>SQL</strong>,<strong>Spring</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS Cloud</strong> techniques, and worked in <strong>microservices</strong>, <strong>Winform</strong>, <strong>Excel plugins</strong> development areas.
 education:
     title: Education
@@ -84,7 +84,7 @@ experiences:
         time: April 2021 - Dec 2022
         company: CSG Group, Moody's Analytics
         details: |
-          Participate in building a new product Risk Compass. (<Strong>Java, Scala, python, nodejs</Strong>)
+          Participate in building a new product Risk Compass. 
             - Use AWS Glue(AWS managed spark big data platform) to calculate financial statement and industry indicators by billions of data, then use AWS batch with python to run <strong>Random Forest Classification</strong> model to predict PD and calculate financial warning score.
             - Use AWS Glue to calculate bond LGD rating model.
             - Use AWS Glue to calculate bond market statistic data.
@@ -97,13 +97,13 @@ experiences:
         time: Nov 2020 - June 2021
         company: CSG Group, Moody's Analytics
         details: |
-          Build Scorecard service module for China Credit View product.(<Strong>.Net</Strong>)
+          Build Scorecard service module for China Credit View product.
             - Design and set up scorecard microservice to generate scorecard spreadsheet for different industries. The microservices are deployed by AWS ECS Fargate to support auto scaling. We also use Kong API Gateway to build a gateway service to route requests to different microservices.
       - role: Associate Director Senior Software Engineer Mgr
         time: Mar 2012 - Nov 2020
         company: CSR BU, Moody's Analytics
         details: |
-          Lead team to develop Moody's Add-in for Excel product.(<Strong>.Net, .Net core microservices</Strong>)
+          Lead team to develop Moody's Add-in for Excel product.
             - Design and lead team to develop Moody's Add-in for Excel SDK (A platform for other BU to integrate features and data into Moody's Add-in for Excel). AWS SQS is used for message queue. AWS Lambda is used to run background tasks and process messages.
             - Design and lead team to implement MADATA formula feature.
             - Design Enterprise authentication for Moody's Add-in for Excel.
