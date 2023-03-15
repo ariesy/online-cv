@@ -43,8 +43,16 @@ career-profile:
     title: 个人简介
     summary: |
       欢迎浏览我的简历, 我是一个高级软件开发工程师/架构师, 也担任过开发组长, 领导团队进行开发工作。
-      我主要专长于: <strong>Java</strong>, <strong>C#</strong>语言, 同时也掌握 <strong>Scala</strong>, <strong>python</strong>, <strong>Javascript</strong> 语言。
-      我精通于 <strong>SQL</strong>,<strong>Spring</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS云</strong> 等技术, 致力于 <strong>微服务</strong>, <strong>桌面程序</strong>, <strong>Excel插件</strong> 等开发领域。
+
+      自我评价
+        - 基    础: 熟练掌握各类数据结构、算法, 精通各类常用设计模式。
+        - 开发语言: 熟练掌握Java基础知识、Java并发、JVM, 熟练掌握Scala, python, C#, javascript等常用语言。
+        - 框    架: 熟练掌握SpringMVC、SpringBoot、SpringCloud, Dubbo等后端开发框架, 熟悉React等前端开发框架。
+        - 数 据 库: 熟练掌握MySQL、PostgreSQL、Redis、MongoDB等关系/非关系型数据库, 有丰富的调优经验。
+        - 中 间 件: 熟练使用kafka、Elasticsearch、zookeeper等中间件, 了解底层原理
+        - 云计算/云原生: 熟练使用Docker, K8s等云原生技术, 精通AWS cloud各种服务的使用, 熟悉微软Azure cloud各种服务的使用。
+        - 实时计算: 有spark使用经验
+        - 运    维: 熟练使用常用的linux命令, 精通github action脚本编写, 熟练掌握docker, k8s等相关工具。
 education:
     title: 教育
     info:
@@ -84,30 +92,46 @@ experiences:
         time: 2021年4月 - 2022年12月
         company: CSG Group, 穆迪分析
         details: |
-          参与设计及开发穆迪中国区的新产品 Risk Compass。
-            - 基于AWS Glue(AWS 托管的spark大数据平台)使用10亿级别的数据来计算财报及行业指标, 再使用python利用AWS Batch来运行<strong>随机森林分类</strong>模型, 用来预测公司的违约概率, 并以此计算财务预警评分。
-            - 基于AWS Glue来计算债券违约损失率评级模型。
-            - 基于AWS Glue来计算债券市场统计信息。
-            - 使用Elasticsearch搭建搜索引擎, 并修改了源码来满足我们的自定义需求, 如拼音搜索, 远程自定义词典及动态同义词功能。
+          该产品为穆迪公司面向中国区大客户推出的一站式风险分析和管理平台。客户可在平台上查询及管理资产组合, 使用穆迪分析的金融模型从行业, 财务, ESG等各方面对自己的资产进行综合性的金融风险分析及评估。 
+
+          项目职责:
+            - 整体方案设计, 数据模型设计, 包含实体, 债券、市场概览、财务预警、非标资产、搜索、公式脚本引擎, 实时计算等模块, 共计40余张表, 接口60余个。
+            - 负责产品整体搜索引擎的设计, 架构, 以及对应的搜索API的设计和开发。使用Elasticsearch搭建搜索引擎, 并修改了源码来满足我们的自定义需求, 如拼音搜索, 远程自定义词典及动态同义词功能。
+            - 核心功能模块开发, 包括实体, 债券, 搜索, 公式脚本引擎等。
+            - 负责后端数据ETL及金融模型计算, 包括市场概览, 财务预警, 非标资产, 实时计算等。
             - 使用JEXL(Java Extensible Language)创建了一个灵活的公式脚本系统, 以满足金融分析师需要创建自定义计算模板的需求。
-            - 设计并实现了一个分布式系统中的Java Spring boot微服务以实现产品的业务逻辑, 包括 主体微服务, 投资组合微服务, 搜索微服务, 交互式计算微服务等。微服务使用AWS ECS Fargate进行部署及实现自动伸缩。基于Spring Cloud Gateway实现服务网关。
-            - 使用AWS Glue来处理大量来自供应商的数据, 包括债券, 主体, 信用舆情文章等数据。
-            - 基于nodejs搭建了一个面向API的信息管理系统以满足实时数据和配置变化的需要。
+            - 基于nodejs搭建了一个面向API的信息管理系统以满足实时数据和配置变化的需要。 
+
+          技术栈: 
+          
+            Spring Cloud, MongoDB, PostgreSQL, Redis, Elasticsearch, nodejs, spark, Python pandas & numpy, Scala, Docker, AWS Cloud
       - role: 副总监级高级软件架构师
         time: 2020年11月 - 2021年6月
         company: CSG Group, 穆迪分析
         details: |
-          设计及开发Credit View中国区产品的打分卡微服务。
-            - 设计及开发打分卡微服务用来提供各行业打分卡的模板生成功能。微服务使用AWS ECS Fargate进行部署及实现自动伸缩。使用Kong实现服务网关。
+          该产品面向中国区客户提供穆迪信用观点及评分数据。 
+
+          项目职责:
+            - 负责行业分析打分卡模块的设计和开发。 
+
+          技术栈: 
+          
+            Spring Cloud, Kong, POI, AWS Cloud
       - role: 副总监级高级软件开发经理
         time: 2012年3月 - 2020年11月
         company: CSR BU, 穆迪分析
         details: |
-          带领团队开发穆迪Excel插件产品。
-            - 设计并领导团队开发穆迪Excel开发者工具箱 (一个用来将穆迪其他部门的数据及业务功能自动集成到穆迪Excel插件的平台)。使用AWS SQS作为消息队列, 使用Lambda无服务器函数来处理消息。
-            - 设计并领导团队开发穆迪Excel插件上的MADATA自定义公式。
-            - 设计穆迪Excel插件的企业登录功能。
-            - 设计及开发穆迪Excel插件的后台.Net core微服务以提供数据获取及公式计算的功能。
+          本产品作为Excel插件平台, 在客户端为金融分析师提供从Excel中访问穆迪金融数据及金融模型的能力, 并使用户能够将自己的数据和模型与穆迪的数据和模型进行交互。在服务端提供灵活的集成方式, 使穆迪其他部门可以方便地集成更多的穆迪数据及模型。 
+
+          项目职责: 
+            - 负责产品整体架构方案设计, 前端采用EO.WebBrowser组件, 使得前端开发可以用web相关技术如React来开发用户界面。后端采用分布式微服务架构, 提高系统整体可用性, 容错性及扩展性。
+            - 负责本产品的SDK及服务注册中心设计, 为其他部门提供服务接入点, 方便其他部门的数据及模型进行接入。
+            - 设计企业用户登录设计, 与穆迪SSO系统进行整合。
+            - 整体把控, 推进项目进度, 主持每日站会, 记录日报, 推动问题的解决, 协调各方进行有效沟通。
+          
+          技术栈: 
+            
+            Spring Cloud, Redis, MongoDB,SQL Server, Kong, React, .net core/.net framework, VSTO, Docker, AWS Cloud
       - role: 组织穆迪深圳办公室Hackday活动
         details: |
           与穆迪MAA团队合作, 组织并筹备穆迪深圳办公室的Hackday活动。
@@ -117,7 +141,15 @@ experiences:
         time: 2006年6月 - 2012年3月
         company: 晨星资讯
         details: |
-            - 设计并领导团队开发晨星投资顾问工作站产品。
+          本产品为晨星的投资者顾问用户提供一站式客户管理, 资产组合, 投资透视分析等功能。
+
+          项目职责: 
+              - 核心模块的设计及开发。
+              - 整体把控, 推进项目进度, 主持每日站会, 记录日报, 推动问题的解决, 协调各方进行有效沟通。
+        
+          技术栈:  
+
+            Asp.net, SQL server, Extjs
 projects:
     title: 个人项目
     intro: >

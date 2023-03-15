@@ -42,9 +42,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hi, my name's Kun Zhu and I'm a senior software engineer/architect. I have also worked as a team manager to lead team development.
-      I am most skilled in: <strong>Java</strong>, <strong>C#</strong> language , and also worked on <strong>Scala</strong>, <strong>python</strong>, <strong>Javascript</strong> languages.
-      I am experienced in <strong>SQL</strong>,<strong>Spring</strong>, <strong>Elasticsearch</strong>, <strong>Redis</strong>, <strong>AWS Cloud</strong> techniques, and worked in <strong>microservices</strong>, <strong>Winform</strong>, <strong>Excel plugins</strong> development areas.
+      Welcome to my resume. I am a senior software development engineer/architect who has also served as a development team leader.
+
+      Self-evaluation:
+        - Foundation: Proficient in various data structures and algorithms, proficient in various commonly used design patterns.
+        - Programming languages: Proficient in Java basics, Java concurrency, JVM, proficient in commonly used languages such as Scala, Python, C#, JavaScript.
+        - Frameworks: Proficient in backend development frameworks such as SpringMVC, SpringBoot, SpringCloud, Dubbo, familiar with frontend development frameworks such as React.
+        - Databases: Proficient in relational/non-relational databases such as MySQL, PostgreSQL, Redis, MongoDB, with rich tuning experience.
+        - Middleware: Proficient in using middleware such as Kafka, Elasticsearch, Zookeeper, knowledgeable about underlying principles.
+        - Cloud computing/cloud native: Proficient in cloud-native technologies such as Docker, K8s, proficient in using various AWS cloud services, familiar with various Microsoft Azure cloud services.
+        - Real-time computing: Experienced in using Spark.
+        - Operations and maintenance: Proficient in using common Linux commands, skilled in writing GitHub action scripts, proficient in tools such as Docker and K8s.
 education:
     title: Education
     info:
@@ -84,30 +92,48 @@ experiences:
         time: April 2021 - Dec 2022
         company: CSG Group, Moody's Analytics
         details: |
-          Participate in building a new product Risk Compass. 
-            - Use AWS Glue(AWS managed spark big data platform) to calculate financial statement and industry indicators by billions of data, then use AWS batch with python to run <strong>Random Forest Classification</strong> model to predict PD and calculate financial warning score.
-            - Use AWS Glue to calculate bond LGD rating model.
-            - Use AWS Glue to calculate bond market statistic data.
-            - Set up search engine with Elasticsearch, customize some search features to support Chinease pinyin search and remote dict and dynamic synonym.
-            - Use JEXL(Java Extensible Language) to create a flexible formula scripting system to read and calculate customer functions so financial analyers can write their own templates for financial models. 
-            - Design and impliment Java microservices with Spring boot in a distribute system for business logics, including entity service, portfolio service, search service, interactive-calculation service, etc. The microservices are deployed by AWS ECS Fargate to support auto scaling. We also use Spring Cloud Gateway to build a gateway service to route requests to different microservices.
-            - Setup Glue ETL jobs to process bond, entity, credit sentiment article data.
-            - Setup a headless CMS to support real time data/config changes based on nodejs.
+          This product is a one-stop risk analysis and management platform launched by Moody's for its major clients in China. Customers can access and manage their asset portfolios on the platform, and conduct comprehensive financial risk analysis and evaluation of their assets from various perspectives such as industry, finance, ESG, and more using Moody's analytical financial models.
+
+          Project Responsibilities:
+            - Overall solution design, data model design, including entity, bond, market overview, financial warning, non-standard assets, search, formula script engine, real-time calculation and other modules, totaling more than 40 tables and more than 60 interfaces.
+            - Responsible for the design and architecture of the overall search engine, as well as the design and development of the corresponding search API. Use Elasticsearch to build the search engine, and modify the source code to meet our customized requirements, such as pinyin search, remote custom dictionary, and dynamic synonym function.
+            - Development of core functional modules, including entity, bond, search, formula script engine, etc.
+            - Responsible for backend data ETL and financial model calculation, including market overview, financial warning, non-standard assets, real-time calculation, etc.
+            - Created a flexible formula script system using JEXL (Java Extensible Language) to meet the needs of financial analysts to create custom calculation templates. 
+            - Built an API-oriented information management system based on nodejs to meet the needs of real-time data and configuration changes.
+          
+          Tech Stack:
+
+            Spring Cloud, MongoDB, PostgreSQL, Redis, Elasticsearch, nodejs, spark, Python pandas & numpy, Scala, Docker, AWS Cloud
+
       - role: Associate Director Senior Software Architecture
         time: Nov 2020 - June 2021
         company: CSG Group, Moody's Analytics
         details: |
-          Build Scorecard service module for China Credit View product.
-            - Design and set up scorecard microservice to generate scorecard spreadsheet for different industries. The microservices are deployed by AWS ECS Fargate to support auto scaling. We also use Kong API Gateway to build a gateway service to route requests to different microservices.
+          This product provides Moody's credit opinions and rating data for clients in China.
+
+          Project Responsibilities:
+
+            - Responsible for the design and development of the industry analysis scoring module.
+          
+          Tech Stack:
+
+            Spring Cloud, Kong, POI, AWS Cloud
       - role: Associate Director Senior Software Engineer Mgr
         time: Mar 2012 - Nov 2020
         company: CSR BU, Moody's Analytics
         details: |
-          Lead team to develop Moody's Add-in for Excel product.
-            - Design and lead team to develop Moody's Add-in for Excel SDK (A platform for other BU to integrate features and data into Moody's Add-in for Excel). AWS SQS is used for message queue. AWS Lambda is used to run background tasks and process messages.
-            - Design and lead team to implement MADATA formula feature.
-            - Design Enterprise authentication for Moody's Add-in for Excel.
-            - Design and impliment .Net core microservices to support data retriever and formula calculation features of Moody's Add-in for Excel.
+          This product is an Excel plugin platform that provides financial analysts with the ability to access Moody's financial data and models from Excel, and enables users to interact their own data and models with Moody's. The flexible integration on the server side allows other departments of Moody's to easily integrate more Moody's data and models.
+          
+          Project Responsibilities:
+            - Responsible for the overall architecture design of the product. Using EO.WebBrowser component for the frontend development, which allows frontend developers to use web-related technologies such as React to develop user interfaces. Adopting a distributed microservices architecture for the backend to improve system availability, fault tolerance, and scalability.
+            - Responsible for the SDK and service registry center design of the product, providing service access points for other departments to facilitate the integration of their data and models.
+            - Design Enterprise authentication and integrated it with Moody's SSO system.
+            - Overall project management including progress tracking, leading daily stand-up meetings, recording daily reports, pushing issue resolution, and coordinating effective communication among various parties.
+
+          Tech Stack:
+
+            Spring Cloud, Redis, MongoDB,SQL Server, Kong, React, .net core/.net framework, VSTO, Docker, AWS Cloud
       - role: Organize MA Shenzhen Hackday Event
         details: |
           Working with MAA(Moody's Analytics Accelerator) to plan and organize Hackday Event in MA Sheenzhen office.
@@ -117,7 +143,15 @@ experiences:
         time: June 2006 - Mar 2012
         company: Morningstar
         details: |
-            - Design and lead team to implement features of Morningstar Advisor Workstation product.(<Strong>.Net Framework</strong>)
+          This product provides a one-stop customer management, asset portfolio, investment perspective analysis and other functions for Morningstar's investor advisory clients.
+
+          Project Responsibilities:
+            - Design and development of core modules.
+            - Overall project management including progress tracking, leading daily stand-up meetings, recording daily reports, pushing issue resolution, and coordinating effective communication among various parties.
+          
+          Tech Stack:
+            
+            Asp.net, SQL server, Extjs
 projects:
     title: Projects
     intro: >
