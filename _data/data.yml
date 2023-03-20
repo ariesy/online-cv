@@ -150,7 +150,7 @@ experiences:
         company: Morningstar
         details: |
           Project Name: Morningstar Advisor Workstation
-          
+
           This product provides a one-stop customer management, asset portfolio, investment perspective analysis and other functions for Morningstar's investor advisory clients.
 
           Project Responsibilities:
@@ -192,7 +192,7 @@ skills:
       - name: Python
         level: 80%
       - name: Java
-        level: 80%
+        level: 98%
       - name: Scala
         level: 75%
       - name: Javascript & React & Nodejs

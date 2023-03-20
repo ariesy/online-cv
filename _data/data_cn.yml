@@ -126,7 +126,7 @@ experiences:
         company: CSR BU, 穆迪分析
         details: |
           项目名称: Moody's Add-in for Excel
-          
+
           本产品作为Excel插件平台, 在客户端为金融分析师提供从Excel中访问穆迪金融数据及金融模型的能力, 并使用户能够将自己的数据和模型与穆迪的数据和模型进行交互。在服务端提供灵活的集成方式, 使穆迪其他部门可以方便地集成更多的穆迪数据及模型。 
 
           项目职责: 
@@ -190,7 +190,7 @@ skills:
       - name: Python
         level: 80%
       - name: Java
-        level: 80%
+        level: 98%
       - name: Scala
         level: 75%
       - name: Javascript & React & Nodejs
