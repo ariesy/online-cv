@@ -177,6 +177,8 @@ projects:
 skills:
     title: Skills &amp; Proficiency
     toolset:
+      - name: Java
+        level: 98%
       - name: C# & .NET
         level: 98%
       - name: SQL
@@ -191,8 +193,6 @@ skills:
         level: 90%
       - name: Python
         level: 80%
-      - name: Java
-        level: 98%
       - name: Scala
         level: 75%
       - name: Javascript & React & Nodejs
