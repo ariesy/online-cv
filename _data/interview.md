@@ -1,11 +1,4 @@
-## What do you know about Prudential?
 
-It has more than 145 years of history. 
-It is a global financial services leader with operations in the United States, Asia, Europe, and Latin America.
-It has more than $1 trillion of assets under management as of March 31, 2019.
-It offers a variety of products and services, including life insurance, annuities, retirement-related services, mutual funds, investment management, and real estate services.
-It has approximately 53,000 employees in 40 countries.
-It is a member of the S&P 500 Index.
 
 ## Why do you leave Morningstar?
 
@@ -20,20 +13,7 @@ I joined a new team in Moodys, people in my team and other teams are young and e
 Hackday
 In a new project Risk Compass, I set up a search engine with Elasticsearch to support the search feature of the whole platform. It is a very challenging project. The official Elasticsearch does not support Chinese and Chinese Pinyin searches. I had to make a lot of customization to make it work.
 
-## Do you have any questions for us?
-
-What's the career promotion path as an architect at Prudential?
-
-## Can you tell me a little bit about your education and professional experience as an architect?
-
-I got an AWS certified solution architect certificate in 2017. In the project Risk Compass, I designed a search engine to support the whole platform.
-
 ## What design software are you proficient in and what projects have you worked on in the past?
-
-## What is your design philosophy and how do you approach the design process?
-
-A good system design should be strong and resilient. It should be able to handle unexpected situations and adapt to changes. It should be easy to maintain and extend.
-We should always keep in mind that the system is not only for the current situation but also for the future. However, we should not over-design the system too. We need to balance the current situation and the future. For some mature extensible techniques, First, we need to understand the requirements clearly. We should also ask questions about the in which way the system may evolve. We should also consider how the new system can fit into our current system. We should also consider the cost of the extensible design. 
 
 ## what did you learn in FRM?
 
@@ -54,3 +34,7 @@ arrange meeting times in turn with US strategy.
 ## How do you handle difficult or confrontational situations with clients or team members?
 
 Enterprise authentication case.
+## challenge case
+
+In 2018 and 2019, I successfully organized an internal hackathon at Moody's Shenzhen office in my capacity as an organizer. The success of the 2018 event caught the interest of Moody's Analytics Accelerator (MAA) globally, leading to its promotion across major global offices. In collaboration with MAA in 2019, a larger-scale event was held. As one of the Moody's MAA global office Hackday event series, the event required adherence to MAA's provided guidelines and standards while incorporating local features. I worked closely with personnel from multiple departments to ensure the smooth execution of the event. Ultimately, the event was successful, with 17 teams participating in several interesting POC projects, and five different field awards being presented to deserving candidates. One of the POC projects ultimately made it into production and became a new product for Moody's.
+
