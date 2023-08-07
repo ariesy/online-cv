@@ -95,6 +95,13 @@ experiences:
           Project Name: Xiaodie+
 
           Design the architecture of a new product called Xiaodie+, which is a next generation product with Cloud native and AI native. Implement core modules.
+          
+          Project Responsibilities:
+            - Overall architecture design and core module design, including capital module, account receivable/payable module, business operation analysis, industry peer comparison, smart accouting document, and auto tax filing modules.
+            - Take charge of refactoring old SCM system to utilize most of the existed business logic.
+            - Design deployement architect.
+            - Establish code standards and unit testing criteria.
+
 
       - role: Associate Director Senior Software Architect
         time: April 2021 - Dec 2022
