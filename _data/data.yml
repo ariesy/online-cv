@@ -98,7 +98,7 @@ experiences:
           
           Project Responsibilities:
             - Overall architecture design and core module design, including capital module, account receivable/payable module, business operation analysis, industry peer comparison, smart accouting document, and auto tax filing modules.
-            - Take charge of refactoring old SCM system to utilize most of the existed business logic.
+            - Take charge of refactoring old SCM system, enabling the new product to leverage existing business logic to the fullest extent possible.
             - Design deployement architect.
             - Establish code standards and unit testing criteria.
 
