@@ -88,6 +88,13 @@ education:
 experiences:
     title: 工作经历
     info:
+      - role: 架构设计
+        time: 2023年5月 - 现在
+        company: 金蝶中国
+        details: |
+          项目名称: 小蝶+
+          设计金蝶小微产品部门下一代云原生,AI原生的产品小蝶+的软件架构。开发核心模块。
+
       - role: 副总监级高级软件架构师
         time: 2021年4月 - 2022年12月
         company: CSG Group, 穆迪分析

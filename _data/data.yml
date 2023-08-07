@@ -88,7 +88,15 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Associate Director Senior Software Architecture
+      - role: Softwre Architect
+        time: May 2023 - Present
+        company: Kingdee China
+        details: |
+          Project Name: Xiaodie+
+
+          Design the architecture of a new product called Xiaodie+, which is a next generation product with Cloud native and AI native. Implement core modules.
+
+      - role: Associate Director Senior Software Architect
         time: April 2021 - Dec 2022
         company: CSG Group, Moody's Analytics
         details: |
@@ -108,7 +116,7 @@ experiences:
 
             Spring Cloud, MongoDB, PostgreSQL, Redis, Elasticsearch, nodejs, spark, Python pandas & numpy, Scala, Docker, AWS Cloud
 
-      - role: Associate Director Senior Software Architecture
+      - role: Associate Director Senior Software Architect
         time: Nov 2020 - June 2021
         company: CSG Group, Moody's Analytics
         details: |
