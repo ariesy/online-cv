@@ -2,37 +2,37 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-    # Profile information
-    name: 朱琨
-    tagline: 高级软件开发工程师 / 架构师 / 开发经理
-    # avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    # Sidebar links
-    email: ariesyzhk@gmail.com
-    phone: 18927401214
-    website: cv.zhu-kun.com/cn.html #do not add http://
-    linkedin: kun-zhu-18b7082b
-    #xing: alandoe
-    github: ariesy
-    #telegram: # add your nickname without '@' sign
-    #gitlab:
-    #bitbucket:
-    #twitter: '@webjeda'
-    stack-overflow: 880163 # Number/Username, e.g. 123456/alandoe
-    #codewars:
-    #goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: http://www.africau.edu/images/default/sample.pdf
-    languages:      
-      title: 语言
-      info:
-        - idiom: 中文
-          level: 母语
-        - idiom: English
-          level: 专业
-    interests:
-      title: Interests 
-      info:
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+  # Profile information
+  name: 朱琨
+  tagline: 高级软件开发工程师 / 架构师 / 开发经理
+  # avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Sidebar links
+  email: ariesyzhk@gmail.com
+  phone: 18927401214
+  website: cv.zhu-kun.com/cn.html #do not add http://
+  linkedin: kun-zhu-18b7082b
+  #xing: alandoe
+  github: ariesy
+  #telegram: # add your nickname without '@' sign
+  #gitlab:
+  #bitbucket:
+  #twitter: '@webjeda'
+  stack-overflow: 880163 # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
+  #pdf: http://www.africau.edu/images/default/sample.pdf
+  languages:
+    title: 语言
+    info:
+      - idiom: 中文
+        level: 母语
+      - idiom: English
+        level: 专业
+  interests:
+    title: Interests
+    info:
       - item: Watching Movies
         link:
       - item: Gaming
@@ -40,184 +40,189 @@ sidebar:
       - item: Jugging
         link:
 career-profile:
-    title: 个人简介
-    summary: |
-      欢迎浏览我的简历, 我是一个高级软件开发工程师/架构师, 也担任过开发组长, 领导团队进行开发工作。
+  title: 个人简介
+  summary: |
+    欢迎浏览我的简历, 我是一个高级软件开发工程师/架构师, 也担任过开发组长, 领导团队进行开发工作。
 
-      自我评价
-        - 基    础: 熟练掌握各类数据结构、算法, 精通各类常用设计模式。
-        - 开发语言: 熟练掌握Java基础知识、Java并发、JVM, 熟练掌握Scala, python, C#, javascript等常用语言。
-        - 框    架: 熟练掌握SpringMVC、SpringBoot、SpringCloud, Dubbo等后端开发框架, 熟悉React等前端开发框架。
-        - 数 据 库: 熟练掌握MySQL、PostgreSQL、Redis、MongoDB等关系/非关系型数据库, 有丰富的调优经验。
-        - 中 间 件: 熟练使用kafka、Elasticsearch、zookeeper等中间件, 了解底层原理
-        - 云计算/云原生: 熟练使用Docker, K8s等云原生技术, 精通AWS cloud各种服务的使用, 熟悉微软Azure cloud各种服务的使用。
-        - 实时计算: 有spark使用经验
-        - 运    维: 熟练使用常用的linux命令, 精通github action脚本编写, 熟练掌握docker, k8s等相关工具。
+    自我评价
+      - 基    础: 熟练掌握各类数据结构、算法, 精通各类常用设计模式。
+      - 开发语言: 熟练掌握Java基础知识、Java并发、JVM, 熟练掌握Scala, python, C#, javascript等常用语言。
+      - 框    架: 熟练掌握SpringMVC、SpringBoot、SpringCloud, Dubbo等后端开发框架, 熟悉React等前端开发框架。
+      - 数 据 库: 熟练掌握MySQL、PostgreSQL、Redis、MongoDB等关系/非关系型数据库, 有丰富的调优经验。
+      - 中 间 件: 熟练使用kafka、Elasticsearch、zookeeper等中间件, 了解底层原理
+      - 云计算/云原生: 熟练使用Docker, K8s等云原生技术, 精通AWS cloud各种服务的使用, 熟悉微软Azure cloud各种服务的使用。
+      - 实时计算: 有spark使用经验
+      - 运    维: 熟练使用常用的linux命令, 精通github action脚本编写, 熟练掌握docker, k8s等相关工具。
 education:
-    title: 教育
-    info:
-      - degree: 金融风险管理师
-        university: GARP
-        link: garp.org
-        time: 2021
-        details: |
-          Got <strong>FRM</strong> certificate.
-      - degree: AWS认证解决方案架构师
-        university: AWS
-        link: aws.amazon.com
-        time: 2017
-      - degree: 金融市场
-        university: Yale University - Coursera online course
-        link: www.coursera.org
-        time: 2014
-        details: |
-          Passed <strong>Financial Market</strong> course provided by Yale University.
-      - degree: Python交互式程序
-        university: Rice University - Coursera online course
-        link: www.coursera.org
-        time: 2013
-        details: |
-          Passed <strong>An Introduction to Interactive Programming in Python</strong> course provided by Rice University.
-      - degree: 信息管理于信息系统专业学士学位
-        university: 中山大学
-        link: sysu.edu.cn
-        time: 2002 - 2006
-        details: |
-          Graduated from Sun Yat-sen University and got my bachelor's degree.
-            - Won Kaisi scholarship.
+  title: 教育
+  info:
+    - degree: 金融风险管理师
+      university: GARP
+      link: garp.org
+      time: 2021
+      details: |
+        Got <strong>FRM</strong> certificate.
+    - degree: AWS认证解决方案架构师
+      university: AWS
+      link: aws.amazon.com
+      time: 2017
+    - degree: 金融市场
+      university: Yale University - Coursera online course
+      link: www.coursera.org
+      time: 2014
+      details: |
+        Passed <strong>Financial Market</strong> course provided by Yale University.
+    - degree: Python交互式程序
+      university: Rice University - Coursera online course
+      link: www.coursera.org
+      time: 2013
+      details: |
+        Passed <strong>An Introduction to Interactive Programming in Python</strong> course provided by Rice University.
+    - degree: 信息管理于信息系统专业学士学位
+      university: 中山大学
+      link: sysu.edu.cn
+      time: 2002 - 2006
+      details: |
+        Graduated from Sun Yat-sen University and got my bachelor's degree.
+          - Won Kaisi scholarship.
 
 jobs:
-    title: 工作经历
-    summary: |
-      - 2023年5月 - 现在&emsp;&emsp;        金蝶中国&emsp;&emsp;  架构设计
-      - 2012年3月 - 2022年12月&emsp;&emsp;  穆迪分析&emsp;&emsp;  高级软件工程师/架构师/开发经理
-      - 2006年9月 - 2012年3月&emsp;&emsp;   晨星资讯&emsp;&emsp;  软件工程师/开发组长
+  title: 工作经历
+  summary: |
+    | 时间                | 公司        | 职位              | 
+    | ------------        | ------------- | ------------------ | 
+    | 2023年5月 - 现在 | 金蝶中国    | 架构设计 | 
+    | 2012年3月 - 2022年12月       | 穆迪分析    | 高级软件工程师/架构师/开发经理    | 
+    | 2006年9月 - 2012年3月       | 晨星资讯          | 软件工程师/开发组长     |
 
 experiences:
-    title: 项目经验
-    info:
-      - role: 架构设计
-        time: 2023年5月 - 现在
-        company: 金蝶中国
-        details: |
-          项目名称: 小蝶+
+  title: 项目经验
+  info:
+    - role: 架构设计
+      time: 2023年5月 - 现在
+      company: 金蝶中国
+      details: |
+        项目名称: 小蝶+
 
-          设计金蝶小微产品部门下一代云原生,AI原生的产品小蝶+的软件架构。开发核心模块。
+        设计金蝶小微产品部门下一代云原生,AI原生的产品小蝶+的软件架构。开发核心模块。
 
-          项目职责:
-            - 产品整体架构设计及核心模块设计, 包括资金模块, 应收应付流水, 经营分析, 行业对标, 智能会计凭证, 自动报税等模块。
-            - 负责旧产品(进销存系统)的架构分析和重构改造，使新产品能够最大程度利用原有的业务逻辑。
-            - 制定新产品部署方案。
-            - 制定代码规范及单元测试标准.
+        项目职责:
+          - 产品整体架构设计及核心模块设计, 包括资金模块, 应收应付流水, 经营分析, 行业对标, 智能会计凭证, 自动报税等模块。
+          - 负责旧产品(进销存系统)的架构分析和重构改造，使新产品能够最大程度利用原有的业务逻辑。
+          - 制定新产品部署方案。
+          - 制定代码规范及单元测试标准.
 
-      - role: 副总监级高级软件架构师
-        time: 2021年4月 - 2022年12月
-        company: CSG Group, 穆迪分析
-        details: |
-          项目名称: Risk Compass
+    - role: 副总监级高级软件架构师
+      time: 2021年4月 - 2022年12月
+      company: CSG Group, 穆迪分析
+      details: |
+        项目名称: Risk Compass
 
-          该产品为穆迪公司面向中国区大客户推出的一站式风险分析和管理平台。客户可在平台上查询及管理资产组合, 使用穆迪分析的金融模型从行业, 财务, ESG等各方面对自己的资产进行综合性的金融风险分析及评估。 
+        该产品为穆迪公司面向中国区大客户推出的一站式风险分析和管理平台。客户可在平台上查询及管理资产组合, 使用穆迪分析的金融模型从行业, 财务, ESG等各方面对自己的资产进行综合性的金融风险分析及评估。 
 
-          项目职责:
-            - 整体方案设计, 数据模型设计, 包含实体, 债券、市场概览、财务预警、非标资产、搜索、公式脚本引擎, 实时计算等模块, 共计40余张表, 接口60余个。
-            - 负责产品整体搜索引擎的设计, 架构, 以及对应的搜索API的设计和开发。使用Elasticsearch搭建搜索引擎, 并修改了源码来满足我们的自定义需求, 如拼音搜索, 远程自定义词典及动态同义词功能。
-            - 核心功能模块开发, 包括实体, 债券, 搜索, 公式脚本引擎等。
-            - 负责后端数据ETL及金融模型计算, 包括市场概览, 财务预警, 非标资产, 实时计算等。
-            - 使用JEXL(Java Extensible Language)创建了一个灵活的公式脚本系统, 以满足金融分析师需要创建自定义计算模板的需求。
-            - 基于nodejs搭建了一个面向API的信息管理系统以满足实时数据和配置变化的需要。 
+        项目职责:
+          - 整体方案设计, 数据模型设计, 包含实体, 债券、市场概览、财务预警、非标资产、搜索、公式脚本引擎, 实时计算等模块, 共计40余张表, 接口60余个。
+          - 负责产品整体搜索引擎的设计, 架构, 以及对应的搜索API的设计和开发。使用Elasticsearch搭建搜索引擎, 并修改了源码来满足我们的自定义需求, 如拼音搜索, 远程自定义词典及动态同义词功能。
+          - 核心功能模块开发, 包括实体, 债券, 搜索, 公式脚本引擎等。
+          - 负责后端数据ETL及金融模型计算, 包括市场概览, 财务预警, 非标资产, 实时计算等。
+          - 使用JEXL(Java Extensible Language)创建了一个灵活的公式脚本系统, 以满足金融分析师需要创建自定义计算模板的需求。
+          - 基于nodejs搭建了一个面向API的信息管理系统以满足实时数据和配置变化的需要。 
 
-          技术栈: 
+        技术栈: 
+
+          Spring Cloud, MongoDB, PostgreSQL, Redis, Elasticsearch, nodejs, spark, Python pandas & numpy, Scala, Docker, AWS Cloud
+    - role: 副总监级高级软件架构师
+      time: 2020年11月 - 2021年6月
+      company: CSG Group, 穆迪分析
+      details: |
+        项目名称: Credit View China
+
+        该产品面向中国区客户提供穆迪信用观点及评分数据。 
+
+        项目职责:
+          - 负责行业分析打分卡模块的设计和开发。 
+          - 使用POI对行业模板进行基于公司数据的定制化。
+          - 开发行业分析导出功能。
+
+        技术栈: 
+
+          Spring Cloud, Kong, POI, AWS Cloud
+    - role: 副总监级高级软件开发经理
+      time: 2012年3月 - 2020年11月
+      company: CSR BU, 穆迪分析
+      details: |
+        项目名称: Moody's Add-in for Excel
+
+        本产品作为Excel插件平台, 在客户端为金融分析师提供从Excel中访问穆迪金融数据及金融模型的能力, 并使用户能够将自己的数据和模型与穆迪的数据和模型进行交互。在服务端提供灵活的集成方式, 使穆迪其他部门可以方便地集成更多的穆迪数据及模型。 
+
+        项目职责: 
+          - 负责产品整体架构方案设计, 前端采用EO.WebBrowser组件, 使得前端开发可以用web相关技术如React来开发用户界面。后端采用分布式微服务架构, 提高系统整体可用性, 容错性及扩展性。
+          - 负责本产品的SDK及服务注册中心设计, 为其他部门提供服务接入点, 方便其他部门的数据及模型进行接入。
+          - 设计企业用户登录设计, 与穆迪SSO系统进行整合。
+          - 整体把控, 推进项目进度, 主持每日站会, 记录日报, 推动问题的解决, 协调各方进行有效沟通。
+
+        技术栈: 
           
-            Spring Cloud, MongoDB, PostgreSQL, Redis, Elasticsearch, nodejs, spark, Python pandas & numpy, Scala, Docker, AWS Cloud
-      - role: 副总监级高级软件架构师
-        time: 2020年11月 - 2021年6月
-        company: CSG Group, 穆迪分析
-        details: |
-          项目名称: Credit View China
+          Spring Cloud, Redis, MongoDB,SQL Server, Kong, React, .net core/.net framework, VSTO, Docker, AWS Cloud
+    - role: 组织穆迪深圳办公室Hackday活动
+      details: |
+        与穆迪MAA团队合作, 组织并筹备穆迪深圳办公室的Hackday活动。
+        作为穆迪MAA全球办公室的Hackday活动系列之一, 本次活动需要遵循MAA提供的一些指导原则和标准, 同时也需要具有本地化的特点。我需要与多个部门的人员合作来筹备并使本次活动顺利进行。
+        最终本次活动顺利进行, 我们有17个团队参与了多个有趣的POC项目, 5个不同领域的奖项被授予了候选团队。其中一个POC项目最终进入了生产环境, 成为了穆迪的一个新产品。
+    - role: 开发组长
+      time: 2006年6月 - 2012年3月
+      company: 晨星资讯
+      details: |
+        项目名称: Morningstar Advisor Workstation
 
-          该产品面向中国区客户提供穆迪信用观点及评分数据。 
+        本产品为晨星的投资者顾问用户提供一站式客户管理, 资产组合, 投资透视分析等功能。
 
-          项目职责:
-            - 负责行业分析打分卡模块的设计和开发。 
+        项目职责: 
+          - 核心模块的设计及开发。
+          - 整体把控, 推进项目进度, 主持每日站会, 记录日报, 推动问题的解决, 协调各方进行有效沟通。
+          - 考核团队成员业绩并辅助团队成员成长
 
-          技术栈: 
-          
-            Spring Cloud, Kong, POI, AWS Cloud
-      - role: 副总监级高级软件开发经理
-        time: 2012年3月 - 2020年11月
-        company: CSR BU, 穆迪分析
-        details: |
-          项目名称: Moody's Add-in for Excel
+        技术栈:  
 
-          本产品作为Excel插件平台, 在客户端为金融分析师提供从Excel中访问穆迪金融数据及金融模型的能力, 并使用户能够将自己的数据和模型与穆迪的数据和模型进行交互。在服务端提供灵活的集成方式, 使穆迪其他部门可以方便地集成更多的穆迪数据及模型。 
-
-          项目职责: 
-            - 负责产品整体架构方案设计, 前端采用EO.WebBrowser组件, 使得前端开发可以用web相关技术如React来开发用户界面。后端采用分布式微服务架构, 提高系统整体可用性, 容错性及扩展性。
-            - 负责本产品的SDK及服务注册中心设计, 为其他部门提供服务接入点, 方便其他部门的数据及模型进行接入。
-            - 设计企业用户登录设计, 与穆迪SSO系统进行整合。
-            - 整体把控, 推进项目进度, 主持每日站会, 记录日报, 推动问题的解决, 协调各方进行有效沟通。
-          
-          技术栈: 
-            
-            Spring Cloud, Redis, MongoDB,SQL Server, Kong, React, .net core/.net framework, VSTO, Docker, AWS Cloud
-      - role: 组织穆迪深圳办公室Hackday活动
-        details: |
-          与穆迪MAA团队合作, 组织并筹备穆迪深圳办公室的Hackday活动。
-          作为穆迪MAA全球办公室的Hackday活动系列之一, 本次活动需要遵循MAA提供的一些指导原则和标准, 同时也需要具有本地化的特点。我需要与多个部门的人员合作来筹备并使本次活动顺利进行。
-          最终本次活动顺利进行, 我们有17个团队参与了多个有趣的POC项目, 5个不同领域的奖项被授予了候选团队。其中一个POC项目最终进入了生产环境, 成为了穆迪的一个新产品。
-      - role: 开发组长
-        time: 2006年6月 - 2012年3月
-        company: 晨星资讯
-        details: |
-          项目名称: Morningstar Advisor Workstation
-
-          本产品为晨星的投资者顾问用户提供一站式客户管理, 资产组合, 投资透视分析等功能。
-
-          项目职责: 
-            - 核心模块的设计及开发。
-            - 整体把控, 推进项目进度, 主持每日站会, 记录日报, 推动问题的解决, 协调各方进行有效沟通。
-        
-          技术栈:  
-
-            Asp.net, SQL server, Extjs
+          Asp.net, SQL server, Extjs
 projects:
-    title: 个人项目
-    intro: >
-      我的个人小工具
-    assignments:
-      - title: PiPiName
-        link: "https://github.com/ariesy/PiPiName"
-        tagline: "用python写的一个给我的宝宝取名字的工具。"
-      - title: covid-risk-area
-        link: "https://github.com/ariesy/covid-risk-area"
-        tagline: "一个每天爬取国务院新冠风险区域的python爬虫。"
-      - title: DragDropControl
-        link: "https://github.com/ariesy/Sirius.DragDropControl"
-        tagline: "一个可支持拖拽的自定义winform控件。"
+  title: 个人项目
+  intro: >
+    我的个人小工具
+  assignments:
+    - title: PiPiName
+      link: "https://github.com/ariesy/PiPiName"
+      tagline: "用python写的一个给我的宝宝取名字的工具。"
+    - title: covid-risk-area
+      link: "https://github.com/ariesy/covid-risk-area"
+      tagline: "一个每天爬取国务院新冠风险区域的python爬虫。"
+    - title: DragDropControl
+      link: "https://github.com/ariesy/Sirius.DragDropControl"
+      tagline: "一个可支持拖拽的自定义winform控件。"
 skills:
-    title: 技能水平
-    toolset:
-      - name: Java
-        level: 98%
-      - name: C# & .NET
-        level: 98%
-      - name: SQL
-        level: 90%
-      - name: MongoDB
-        level: 90%
-      - name: Redis
-        level: 90%
-      - name: Elasticsearch
-        level: 90%
-      - name: AWS
-        level: 90%
-      - name: Python
-        level: 80%
-      - name: Scala
-        level: 75%
-      - name: Javascript & React & Nodejs
-        level: 70%
-      - name: HTML5 & CSS
-        level: 60%
+  title: 技能水平
+  toolset:
+    - name: Java
+      level: 98%
+    - name: C# & .NET
+      level: 98%
+    - name: SQL
+      level: 90%
+    - name: MongoDB
+      level: 90%
+    - name: Redis
+      level: 90%
+    - name: Elasticsearch
+      level: 90%
+    - name: AWS
+      level: 90%
+    - name: Python
+      level: 80%
+    - name: Scala
+      level: 75%
+    - name: Javascript & React & Nodejs
+      level: 70%
+    - name: HTML5 & CSS
+      level: 60%
 # footer: >
 #     # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

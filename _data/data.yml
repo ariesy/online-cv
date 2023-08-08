@@ -143,6 +143,8 @@ experiences:
         Project Responsibilities:
 
           - Responsible for the design and development of the industry analysis scoring module.
+          - Using POI to customize industry templates for specific company based on their own data.
+          - Develop company industry analysis export feature.
 
         Tech Stack:
 
@@ -180,7 +182,7 @@ experiences:
         Project Responsibilities:
           - Design and development of core modules.
           - Overall project management including progress tracking, leading daily stand-up meetings, recording daily reports, pushing issue resolution, and coordinating effective communication among various parties.
-
+          - Assess team members' performance and assist in their professional growth.
         Tech Stack:
           
           Asp.net, SQL server, Extjs
