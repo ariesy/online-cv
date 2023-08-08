@@ -85,8 +85,16 @@ education:
         details: |
           Graduated from Sun Yat-sen University and got my bachelor's degree.
             - Won Kaisi scholarship.
-experiences:
+
+jobs:
     title: Experiences
+    summary: |
+      - May, 2023 - present&emsp;&emsp;        Kingdee China&emsp;&emsp;  Software Architect
+      - March, 2012 - November, 2022&emsp;&emsp;  Moody's Analytics&emsp;&emsp;  Senior Software Engineer/Architect/Software Manager
+      - September, 2006 - March, 2012&emsp;&emsp;   Morningstar&emsp;&emsp;  Software Engineer/Team Leader
+
+experiences:
+    title: Projects
     info:
       - role: Softwre Architect
         time: May 2023 - Present
