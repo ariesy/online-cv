@@ -2,225 +2,226 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-    # Profile information
-    name: Kun Zhu
-    tagline: Senior Software Engineer / Architecture / Manager
-    #avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    # Sidebar links
-    email: ariesyzhk@gmail.com
-    phone: 18927401214
-    website: cv.zhu-kun.com #do not add http://
-    linkedin: kun-zhu-18b7082b
-    #xing: alandoe
-    github: ariesy
-    #telegram: # add your nickname without '@' sign
-    #gitlab:
-    #bitbucket:
-    #twitter: '@webjeda'
-    stack-overflow: 880163 # Number/Username, e.g. 123456/alandoe
-    #codewars:
-    #goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: http://www.africau.edu/images/default/sample.pdf
-    languages:
-      title: Languages
-      info:
-        - idiom: Chinese
-          level: Native
-        - idiom: English
-          level: Professional
-    interests:
-      title: Interests 
-      info:
-        - item: Watching Movies
-          link:
-        - item: Gaming
-          link:
-        - item: Jugging
-          link:
-career-profile:
-    title: Career Profile
-    summary: |
-      Welcome to my resume. I am a senior software development engineer/architect who has also served as a development team leader.
-
-      Self-evaluation:
-        - Foundation: Proficient in various data structures and algorithms, proficient in various commonly used design patterns.
-        - Programming languages: Proficient in Java basics, Java concurrency, JVM, proficient in commonly used languages such as Scala, Python, C#, JavaScript.
-        - Frameworks: Proficient in backend development frameworks such as SpringMVC, SpringBoot, SpringCloud, Dubbo, familiar with frontend development frameworks such as React.
-        - Databases: Proficient in relational/non-relational databases such as MySQL, PostgreSQL, Redis, MongoDB, with rich tuning experience.
-        - Middleware: Proficient in using middleware such as Kafka, Elasticsearch, Zookeeper, knowledgeable about underlying principles.
-        - Cloud computing/cloud native: Proficient in cloud-native technologies such as Docker, K8s, proficient in using various AWS cloud services, familiar with various Microsoft Azure cloud services.
-        - Real-time computing: Experienced in using Spark.
-        - Operations and maintenance: Proficient in using common Linux commands, skilled in writing GitHub action scripts, proficient in tools such as Docker and K8s.
-education:
-    title: Education
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+  # Profile information
+  name: Kun Zhu
+  tagline: Senior Software Engineer / Architecture / Manager
+  #avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Sidebar links
+  email: ariesyzhk@gmail.com
+  phone: 18927401214
+  website: cv.zhu-kun.com #do not add http://
+  linkedin: kun-zhu-18b7082b
+  #xing: alandoe
+  github: ariesy
+  #telegram: # add your nickname without '@' sign
+  #gitlab:
+  #bitbucket:
+  #twitter: '@webjeda'
+  stack-overflow: 880163 # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
+  #pdf: http://www.africau.edu/images/default/sample.pdf
+  languages:
+    title: Languages
     info:
-      - degree: FRM certificate
-        university: GARP
-        link: garp.org
-        time: 2021
-        details: |
-          Got <strong>FRM</strong> certificate.
-      - degree: AWS Certified Solutions Architect
-        university: AWS
-        link: aws.amazon.com
-        time: 2017
-      - degree: Financial Market
-        university: Yale University - Coursera online course
-        link: www.coursera.org
-        time: 2014
-        details: |
-          Passed <strong>Financial Market</strong> course provided by Yale University.
-      - degree: An Introduction to Interactive Programming in Python
-        university: Rice University - Coursera online course
-        link: www.coursera.org
-        time: 2013
-        details: |
-          Passed <strong>An Introduction to Interactive Programming in Python</strong> course provided by Rice University.
-      - degree: BMan in Information Management and Information System
-        university: Sun Yat-Sen University
-        link: sysu.edu.cn
-        time: 2002 - 2006
-        details: |
-          Graduated from Sun Yat-sen University and got my bachelor's degree.
-            - Won Kaisi scholarship.
+      - idiom: Chinese
+        level: Native
+      - idiom: English
+        level: Professional
+  interests:
+    title: Interests
+    info:
+      - item: Watching Movies
+        link:
+      - item: Gaming
+        link:
+      - item: Jugging
+        link:
+career-profile:
+  title: Career Profile
+  summary: |
+    Welcome to my resume. I am a senior software development engineer/architect who has also served as a development team leader.
+
+    Self-evaluation:
+      - Foundation: Proficient in various data structures and algorithms, proficient in various commonly used design patterns.
+      - Programming languages: Proficient in Java basics, Java concurrency, JVM, proficient in commonly used languages such as Scala, Python, C#, JavaScript.
+      - Frameworks: Proficient in backend development frameworks such as SpringMVC, SpringBoot, SpringCloud, Dubbo, familiar with frontend development frameworks such as React.
+      - Databases: Proficient in relational/non-relational databases such as MySQL, PostgreSQL, Redis, MongoDB, with rich tuning experience.
+      - Middleware: Proficient in using middleware such as Kafka, Elasticsearch, Zookeeper, knowledgeable about underlying principles.
+      - Cloud computing/cloud native: Proficient in cloud-native technologies such as Docker, K8s, proficient in using various AWS cloud services, familiar with various Microsoft Azure cloud services.
+      - Real-time computing: Experienced in using Spark.
+      - Operations and maintenance: Proficient in using common Linux commands, skilled in writing GitHub action scripts, proficient in tools such as Docker and K8s.
+education:
+  title: Education
+  info:
+    - degree: FRM certificate
+      university: GARP
+      link: garp.org
+      time: 2021
+      details: |
+        Got <strong>FRM</strong> certificate.
+    - degree: AWS Certified Solutions Architect
+      university: AWS
+      link: aws.amazon.com
+      time: 2017
+    - degree: Financial Market
+      university: Yale University - Coursera online course
+      link: www.coursera.org
+      time: 2014
+      details: |
+        Passed <strong>Financial Market</strong> course provided by Yale University.
+    - degree: An Introduction to Interactive Programming in Python
+      university: Rice University - Coursera online course
+      link: www.coursera.org
+      time: 2013
+      details: |
+        Passed <strong>An Introduction to Interactive Programming in Python</strong> course provided by Rice University.
+    - degree: BMan in Information Management and Information System
+      university: Sun Yat-Sen University
+      link: sysu.edu.cn
+      time: 2002 - 2006
+      details: |
+        Graduated from Sun Yat-sen University and got my bachelor's degree.
+          - Won Kaisi scholarship.
 
 jobs:
-    title: Experiences
-    summary: |
-      - May, 2023 - present&emsp;&emsp;        Kingdee China&emsp;&emsp;  Software Architect
-      - March, 2012 - November, 2022&emsp;&emsp;  Moody's Analytics&emsp;&emsp;  Senior Software Engineer/Architect/Software Manager
-      - September, 2006 - March, 2012&emsp;&emsp;   Morningstar&emsp;&emsp;  Software Engineer/Team Leader
+  title: Experiences
+  summary: |
+    | Time                | Company        | Position              | 
+    | ------------        | ------------- | ------------------ | 
+    | May, 2023 - present | Kingdee China    | Software Architect | 
+    | Mar, 2012 - Nov, 2022       | Moody's Analytics    | Senior Software Engineer/Architect/Software Manager    | 
+    | Sept, 2006 - Mar, 2012       | Morningstar          | Software Engineer/Team Leader     |
 
 experiences:
-    title: Projects
-    info:
-      - role: Softwre Architect
-        time: May 2023 - Present
-        company: Kingdee China
-        details: |
-          Project Name: Xiaodie+
+  title: Projects
+  info:
+    - role: Softwre Architect
+      time: May 2023 - Present
+      company: Kingdee China
+      details: |
+        Project Name: Xiaodie+
 
-          Design the architecture of a new product called Xiaodie+, which is a next generation product with Cloud native and AI native. Implement core modules.
+        Design the architecture of a new product called Xiaodie+, which is a next generation product with Cloud native and AI native. Implement core modules.
+
+        Project Responsibilities:
+          - Overall architecture design and core module design, including capital module, account receivable/payable module, business operation analysis, industry peer comparison, smart accouting document, and auto tax filing modules.
+          - Take charge of refactoring old SCM system, enabling the new product to leverage existing business logic to the fullest extent possible.
+          - Design deployement architect.
+          - Establish code standards and unit testing criteria.
+
+    - role: Associate Director Senior Software Architect
+      time: April 2021 - Dec 2022
+      company: CSG Group, Moody's Analytics
+      details: |
+        Project Name: Risk Compass
+
+        This product is a one-stop risk analysis and management platform launched by Moody's for its major clients in China. Customers can access and manage their asset portfolios on the platform, and conduct comprehensive financial risk analysis and evaluation of their assets from various perspectives such as industry, finance, ESG, and more using Moody's analytical financial models.
+
+        Project Responsibilities:
+          - Overall solution design, data model design, including entity, bond, market overview, financial warning, non-standard assets, search, formula script engine, real-time calculation and other modules, totaling more than 40 tables and more than 60 interfaces.
+          - Responsible for the design and architecture of the overall search engine, as well as the design and development of the corresponding search API. Use Elasticsearch to build the search engine, and modify the source code to meet our customized requirements, such as pinyin search, remote custom dictionary, and dynamic synonym function.
+          - Development of core functional modules, including entity, bond, search, formula script engine, etc.
+          - Responsible for backend data ETL and financial model calculation, including market overview, financial warning, non-standard assets, real-time calculation, etc.
+          - Created a flexible formula script system using JEXL (Java Extensible Language) to meet the needs of financial analysts to create custom calculation templates. 
+          - Built an API-oriented information management system based on nodejs to meet the needs of real-time data and configuration changes.
+
+        Tech Stack:
+
+          Spring Cloud, MongoDB, PostgreSQL, Redis, Elasticsearch, nodejs, spark, Python pandas & numpy, Scala, Docker, AWS Cloud
+
+    - role: Associate Director Senior Software Architect
+      time: Nov 2020 - June 2021
+      company: CSG Group, Moody's Analytics
+      details: |
+        Project Name: Credit View China
+
+        This product provides Moody's credit opinions and rating data for clients in China.
+
+        Project Responsibilities:
+
+          - Responsible for the design and development of the industry analysis scoring module.
+
+        Tech Stack:
+
+          Spring Cloud, Kong, POI, AWS Cloud
+    - role: Associate Director Senior Software Engineer Mgr
+      time: Mar 2012 - Nov 2020
+      company: CSR BU, Moody's Analytics
+      details: |
+        Project Name: Moody's Add-in for Excel
+
+        This product is an Excel plugin platform that provides financial analysts with the ability to access Moody's financial data and models from Excel, and enables users to interact their own data and models with Moody's. The flexible integration on the server side allows other departments of Moody's to easily integrate more Moody's data and models.
+
+        Project Responsibilities:
+          - Responsible for the overall architecture design of the product. Using EO.WebBrowser component for the frontend development, which allows frontend developers to use web-related technologies such as React to develop user interfaces. Adopting a distributed microservices architecture for the backend to improve system availability, fault tolerance, and scalability.
+          - Responsible for the SDK and service registry center design of the product, providing service access points for other departments to facilitate the integration of their data and models.
+          - Design Enterprise authentication and integrated it with Moody's SSO system.
+          - Overall project management including progress tracking, leading daily stand-up meetings, recording daily reports, pushing issue resolution, and coordinating effective communication among various parties.
+
+        Tech Stack:
+
+          Spring Cloud, Redis, MongoDB,SQL Server, Kong, React, .net core/.net framework, VSTO, Docker, AWS Cloud
+    - role: Organize MA Shenzhen Hackday Event
+      details: |
+        Working with MAA(Moody's Analytics Accelerator) to plan and organize Hackday Event in MA Sheenzhen office.
+        As one of the Hackday events series across multiple global offices of MA, it had to follow a few guidelines and standards provided by MAA, and also have local culture characteristics. I had to work closely with people across multipe departments to plan and make this event work.
+        And finanally this event was successfully launched. We had 17 teams worked on many intresting POC projects, 5 prizes of different areas were granted to candidate teams. One of POC project finanly went production and became a new product of MA.
+    - role: Technique Team Leader
+      time: June 2006 - Mar 2012
+      company: Morningstar
+      details: |
+        Project Name: Morningstar Advisor Workstation
+
+        This product provides a one-stop customer management, asset portfolio, investment perspective analysis and other functions for Morningstar's investor advisory clients.
+
+        Project Responsibilities:
+          - Design and development of core modules.
+          - Overall project management including progress tracking, leading daily stand-up meetings, recording daily reports, pushing issue resolution, and coordinating effective communication among various parties.
+
+        Tech Stack:
           
-          Project Responsibilities:
-            - Overall architecture design and core module design, including capital module, account receivable/payable module, business operation analysis, industry peer comparison, smart accouting document, and auto tax filing modules.
-            - Take charge of refactoring old SCM system, enabling the new product to leverage existing business logic to the fullest extent possible.
-            - Design deployement architect.
-            - Establish code standards and unit testing criteria.
-
-
-      - role: Associate Director Senior Software Architect
-        time: April 2021 - Dec 2022
-        company: CSG Group, Moody's Analytics
-        details: |
-          Project Name: Risk Compass
-
-          This product is a one-stop risk analysis and management platform launched by Moody's for its major clients in China. Customers can access and manage their asset portfolios on the platform, and conduct comprehensive financial risk analysis and evaluation of their assets from various perspectives such as industry, finance, ESG, and more using Moody's analytical financial models.
-
-          Project Responsibilities:
-            - Overall solution design, data model design, including entity, bond, market overview, financial warning, non-standard assets, search, formula script engine, real-time calculation and other modules, totaling more than 40 tables and more than 60 interfaces.
-            - Responsible for the design and architecture of the overall search engine, as well as the design and development of the corresponding search API. Use Elasticsearch to build the search engine, and modify the source code to meet our customized requirements, such as pinyin search, remote custom dictionary, and dynamic synonym function.
-            - Development of core functional modules, including entity, bond, search, formula script engine, etc.
-            - Responsible for backend data ETL and financial model calculation, including market overview, financial warning, non-standard assets, real-time calculation, etc.
-            - Created a flexible formula script system using JEXL (Java Extensible Language) to meet the needs of financial analysts to create custom calculation templates. 
-            - Built an API-oriented information management system based on nodejs to meet the needs of real-time data and configuration changes.
-          
-          Tech Stack:
-
-            Spring Cloud, MongoDB, PostgreSQL, Redis, Elasticsearch, nodejs, spark, Python pandas & numpy, Scala, Docker, AWS Cloud
-
-      - role: Associate Director Senior Software Architect
-        time: Nov 2020 - June 2021
-        company: CSG Group, Moody's Analytics
-        details: |
-          Project Name: Credit View China
-
-          This product provides Moody's credit opinions and rating data for clients in China.
-
-          Project Responsibilities:
-
-            - Responsible for the design and development of the industry analysis scoring module.
-          
-          Tech Stack:
-
-            Spring Cloud, Kong, POI, AWS Cloud
-      - role: Associate Director Senior Software Engineer Mgr
-        time: Mar 2012 - Nov 2020
-        company: CSR BU, Moody's Analytics
-        details: |
-          Project Name: Moody's Add-in for Excel
-
-          This product is an Excel plugin platform that provides financial analysts with the ability to access Moody's financial data and models from Excel, and enables users to interact their own data and models with Moody's. The flexible integration on the server side allows other departments of Moody's to easily integrate more Moody's data and models.
-          
-          Project Responsibilities:
-            - Responsible for the overall architecture design of the product. Using EO.WebBrowser component for the frontend development, which allows frontend developers to use web-related technologies such as React to develop user interfaces. Adopting a distributed microservices architecture for the backend to improve system availability, fault tolerance, and scalability.
-            - Responsible for the SDK and service registry center design of the product, providing service access points for other departments to facilitate the integration of their data and models.
-            - Design Enterprise authentication and integrated it with Moody's SSO system.
-            - Overall project management including progress tracking, leading daily stand-up meetings, recording daily reports, pushing issue resolution, and coordinating effective communication among various parties.
-
-          Tech Stack:
-
-            Spring Cloud, Redis, MongoDB,SQL Server, Kong, React, .net core/.net framework, VSTO, Docker, AWS Cloud
-      - role: Organize MA Shenzhen Hackday Event
-        details: |
-          Working with MAA(Moody's Analytics Accelerator) to plan and organize Hackday Event in MA Sheenzhen office.
-          As one of the Hackday events series across multiple global offices of MA, it had to follow a few guidelines and standards provided by MAA, and also have local culture characteristics. I had to work closely with people across multipe departments to plan and make this event work.
-          And finanally this event was successfully launched. We had 17 teams worked on many intresting POC projects, 5 prizes of different areas were granted to candidate teams. One of POC project finanly went production and became a new product of MA.
-      - role: Technique Team Leader
-        time: June 2006 - Mar 2012
-        company: Morningstar
-        details: |
-          Project Name: Morningstar Advisor Workstation
-
-          This product provides a one-stop customer management, asset portfolio, investment perspective analysis and other functions for Morningstar's investor advisory clients.
-
-          Project Responsibilities:
-            - Design and development of core modules.
-            - Overall project management including progress tracking, leading daily stand-up meetings, recording daily reports, pushing issue resolution, and coordinating effective communication among various parties.
-          
-          Tech Stack:
-            
-            Asp.net, SQL server, Extjs
+          Asp.net, SQL server, Extjs
 projects:
-    title: Projects
-    intro: >
-      My personal projects
-    assignments:
-      - title: PiPiName
-        link: "https://github.com/ariesy/PiPiName"
-        tagline: "A Python tool to pick name for my kid."
-      - title: covid-risk-area
-        link: "https://github.com/ariesy/covid-risk-area"
-        tagline: "A python crawler to get covid risk area data with a daily schedule."
-      - title: DragDropControl
-        link: "https://github.com/ariesy/Sirius.DragDropControl"
-        tagline: "A Winform customized datagrid control supporting drag and drop."
+  title: Projects
+  intro: >
+    My personal projects
+  assignments:
+    - title: PiPiName
+      link: "https://github.com/ariesy/PiPiName"
+      tagline: "A Python tool to pick name for my kid."
+    - title: covid-risk-area
+      link: "https://github.com/ariesy/covid-risk-area"
+      tagline: "A python crawler to get covid risk area data with a daily schedule."
+    - title: DragDropControl
+      link: "https://github.com/ariesy/Sirius.DragDropControl"
+      tagline: "A Winform customized datagrid control supporting drag and drop."
 skills:
-    title: Skills &amp; Proficiency
-    toolset:
-      - name: Java
-        level: 98%
-      - name: C# & .NET
-        level: 98%
-      - name: SQL
-        level: 90%
-      - name: MongoDB
-        level: 90%
-      - name: Redis
-        level: 90%
-      - name: Elasticsearch
-        level: 90%
-      - name: AWS
-        level: 90%
-      - name: Python
-        level: 80%
-      - name: Scala
-        level: 75%
-      - name: Javascript & React & Nodejs
-        level: 70%
-      - name: HTML5 & CSS
-        level: 60%
+  title: Skills &amp; Proficiency
+  toolset:
+    - name: Java
+      level: 98%
+    - name: C# & .NET
+      level: 98%
+    - name: SQL
+      level: 90%
+    - name: MongoDB
+      level: 90%
+    - name: Redis
+      level: 90%
+    - name: Elasticsearch
+      level: 90%
+    - name: AWS
+      level: 90%
+    - name: Python
+      level: 80%
+    - name: Scala
+      level: 75%
+    - name: Javascript & React & Nodejs
+      level: 70%
+    - name: HTML5 & CSS
+      level: 60%
 # footer: >
 #     # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
