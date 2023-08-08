@@ -85,8 +85,17 @@ education:
         details: |
           Graduated from Sun Yat-sen University and got my bachelor's degree.
             - Won Kaisi scholarship.
-experiences:
+
+jobs:
     title: 工作经历
+    summary: |
+    2023年5月 - 现在                金蝶中国                架构设计
+    2012年3月 - 2022年12月          穆迪分析                高级软件工程师/架构师/开发经理
+    2006年9月 - 2012年3月           晨星资讯                软件工程师/开发组长
+
+
+experiences:
+    title: 项目经验
     info:
       - role: 架构设计
         time: 2023年5月 - 现在
